@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bachelorarbeit"
+version = "0.1.0"
+description = ""
+authors = ["MauMauChat <lucaan@edu.aau.at>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pdoc = "^15.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
