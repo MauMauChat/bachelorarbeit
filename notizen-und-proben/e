@@ -1,0 +1,269 @@
+
+## Hier sind die Bash Skripte, die in Python konvertiert werden müssen und R für die orientierung
+#!/bin/bash
+
+# Pfad zur CSV-Datei mit Kommentaren
+csv_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/data/test_kommentare.csv"
+
+# Pfad zur AFINN-111 Liste
+afinn_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/data/AFINN-111.txt"
+
+# Ordner für die Ausgabeergebnisse
+output_dir="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/output"
+
+# Pfade für die Ausgabedateien
+output_positive="$output_dir/positive_kommentare.txt"
+output_negative="$output_dir/negative_kommentare.txt"
+output_neutral="$output_dir/neutrale_kommentare.txt"
+
+# Leere die Ausgabedateien
+> "$output_positive"
+> "$output_negative"
+> "$output_neutral"
+
+# Stelle sicher, dass der Ausgabeordner existiert
+mkdir -p "$output_dir"
+
+# Lade die AFINN-Liste in ein assoziatives Array
+declare -A afinn_dict
+
+while IFS=$'\t' read -r word score; do
+    afinn_dict["$word"]=$score
+done < "$afinn_file"
+
+# Funktion, um den Sentimentwert eines Kommentars zu berechnen
+calculate_sentiment() {
+    local comment="$1"
+    local sentiment_score=0
+
+    # Split den Kommentar in Wörter
+    for word in $comment; do
+        # Konvertiere das Wort in Kleinbuchstaben
+        word=$(echo "$word" | tr '[:upper:]' '[:lower:]')
+        
+        # Falls das Wort in der AFINN-Liste ist, addiere den Score
+        if [[ -n "${afinn_dict[$word]}" ]]; then
+            sentiment_score=$((sentiment_score + afinn_dict[$word]))
+        fi
+    done
+
+    echo $sentiment_score
+}
+
+# Datei Zeile für Zeile lesen und analysieren
+while IFS=, read -r username comment; do
+    sentiment_score=$(calculate_sentiment "$comment")
+
+    # Basierend auf dem Sentimentwert klassifizieren
+    if (( sentiment_score > 0 )); then
+        echo "$username: $comment" >> "$output_positive"
+    elif (( sentiment_score < 0 )); then
+        echo "$username: $comment" >> "$output_negative"
+    else
+        echo "$username: $comment" >> "$output_neutral"
+    fi
+
+done < <(tail -n +2 "$csv_file") # Überspringe die Kopfzeile
+
+echo "Sentimentanalyse abgeschlossen. Die Ergebnisse befinden sich im Ordner: $output_dir"
+
+#!/bin/bash
+
+# Pfad zur CSV-Datei mit Kommentaren
+csv_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/data/test_kommentare.csv"
+
+# Pfad zur AFINN-111 Liste
+afinn_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/data/AFINN-111.txt"
+
+# Ordner für die Ausgabeergebnisse
+output_dir="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/output"
+
+# Pfad für die Datei mit den Sentiment-Bewertungen
+sentiment_scores_file="$output_dir/sentiment_scores.txt"
+
+# Leere die Sentiment-Bewertungen-Datei
+> "$sentiment_scores_file"
+
+# Stelle sicher, dass der Ausgabeordner existiert
+mkdir -p "$output_dir"
+
+# Lade die AFINN-Liste in ein assoziatives Array
+declare -A afinn_dict
+
+while IFS=$'\t' read -r word score; do
+    afinn_dict["$word"]=$score
+done < "$afinn_file"
+
+# Funktion, um den Sentimentwert eines Kommentars zu berechnen
+calculate_sentiment() {
+    local comment="$1"
+    local sentiment_score=0
+
+    # Split den Kommentar in Wörter
+    for word in $comment; do
+        # Konvertiere das Wort in Kleinbuchstaben
+        word=$(echo "$word" | tr '[:upper:]' '[:lower:]')
+        
+        # Falls das Wort in der AFINN-Liste ist, addiere den Score
+        if [[ -n "${afinn_dict[$word]}" ]]; then
+            sentiment_score=$((sentiment_score + afinn_dict[$word]))
+        fi
+    done
+
+    echo $sentiment_score
+}
+
+# Datei Zeile für Zeile lesen und analysieren
+while IFS=, read -r username comment; do
+    sentiment_score=$(calculate_sentiment "$comment")
+
+    # Schreibe den Benutzer, den Kommentar und den Sentimentwert in die Sentiment-Bewertungen-Datei
+    echo "$username: $comment (Score: $sentiment_score)" >> "$sentiment_scores_file"
+
+done < <(tail -n +2 "$csv_file") # Überspringe die Kopfzeile
+
+echo "Sentimentanalyse mit professionellem Punktesystem abgeschlossen. Ergebnisse in: $sentiment_scores_file"
+
+# Variablen initialisieren
+total_comments <- 0
+positive_comments <- 0
+negative_comments <- 0
+neutral_comments <- 0
+average_score <- 0
+max_score <- 0
+min_score <- 0
+
+# Statistikdatei lesen und Daten extrahieren
+lines <- readLines(statistics_file)
+
+for (line in lines) {
+  if (grepl("Gesamtzahl der Kommentare", line)) {
+    total_comments <- as.numeric(gsub("[^0-9]", "", line))
+  } else if (grepl("Positive Kommentare", line)) {
+    positive_comments <- as.numeric(gsub("[^0-9]", "", line))
+  } else if (grepl("Negative Kommentare", line)) {
+    negative_comments <- as.numeric(gsub("[^0-9]", "", line))
+  } else if (grepl("Neutrale Kommentare", line)) {
+    neutral_comments <- as.numeric(gsub("[^0-9]", "", line))
+  } else if (grepl("Durchschnittlicher Sentimentwert", line)) {
+    average_score <- as.numeric(gsub("[^0-9.-]", "", line))
+  } else if (grepl("Höchster Sentimentwert", line)) {
+    max_score <- as.numeric(gsub("[^0-9-]", "", line))
+  } else if (grepl("Niedrigster Sentimentwert", line)) {
+    min_score <- as.numeric(gsub("[^0-9-]", "", line))
+  }
+}
+
+# Installiere ggplot2, falls nicht installiert
+if (!require("ggplot2")) {
+  install.packages("ggplot2", repos = "http://cran.us.r-project.org")
+}
+
+# Lade ggplot2 Bibliothek
+library(ggplot2)
+
+# Pfad zum Speichern der Grafiken
+output_dir <- "/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/output"
+
+# Erstelle die Verteilung der Kommentare als Balkendiagramm
+comment_data <- data.frame(
+  Category = c("Positive", "Negative", "Neutral"),
+  Count = c(positive_comments, negative_comments, neutral_comments)
+)
+
+# Zeichne die Verteilung der Kommentare und speichere sie in einer Variablen
+plot1 <- ggplot(comment_data, aes(x = Category, y = Count, fill = Category)) +
+  geom_bar(stat = "identity") +
+  ggtitle("Verteilung der Kommentare") +
+  xlab("Kommentar-Typ") +
+  ylab("Anzahl der Kommentare")
+
+# Speichern des Diagramms der Kommentarverteilung
+ggsave(filename = paste0(output_dir, "/comment_distribution.png"), plot = plot1)
+
+# Erstelle die Sentiment-Statistik als Balkendiagramm
+score_data <- data.frame(
+  Metric = c("Durchschnitt", "Maximal", "Minimal"),
+  Score = c(average_score, max_score, min_score)
+)
+
+# Zeichne die Sentiment-Statistik und speichere sie in einer Variablen
+plot2 <- ggplot(score_data, aes(x = Metric, y = Score, fill = Metric)) +
+  geom_bar(stat = "identity") +
+  ggtitle("Sentiment-Statistik") +
+  xlab("Metrik") +
+  ylab("Score")
+
+# Speichern des Diagramms der Sentiment-Statistik
+ggsave(filename = paste0(output_dir, "/sentiment_statistics.png"), plot = plot2)
+
+print("Die Grafiken wurden erfolgreich erstellt und gespeichert.")
+
+#!/bin/bash
+
+# Pfad zur Datei mit den Sentiment-Bewertungen
+sentiment_scores_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/output/sentiment_scores.txt"
+
+# Pfad zur Datei mit der generierten Statistik
+statistics_file="/home/lucy/Documents/Notes/Study-Notes/2024_ws/queer_feminist_ethnographic_analyses_of_digital_identities/afinn/afinn/output/statistics.txt"
+
+# Leere die Statistik-Datei
+> "$statistics_file"
+
+# Initialisiere Variablen für die Statistik
+total_comments=0
+positive_comments=0
+negative_comments=0
+neutral_comments=0
+total_score=0
+max_score=-9999
+min_score=9999
+
+# Datei Zeile für Zeile lesen
+while IFS= read -r line; do
+    # Extrahiere den Sentimentwert aus der Zeile
+    score=$(echo "$line" | grep -o "(Score: [-0-9]*)" | grep -o "[-0-9]*")
+
+    # Inkrementiere die Gesamtzahl der Kommentare
+    total_comments=$((total_comments + 1))
+
+    # Aktualisiere den totalen Score
+    total_score=$((total_score + score))
+
+    # Finde den höchsten und niedrigsten Score
+    if (( score > max_score )); then
+        max_score=$score
+    fi
+
+    if (( score < min_score )); then
+        min_score=$score
+    fi
+
+    # Klassifiziere den Kommentar basierend auf dem Score
+    if (( score > 0 )); then
+        positive_comments=$((positive_comments + 1))
+    elif (( score < 0 )); then
+        negative_comments=$((negative_comments + 1))
+    else
+        neutral_comments=$((neutral_comments + 1))
+    fi
+done < "$sentiment_scores_file"
+
+# Berechne den Durchschnittsscore
+if (( total_comments > 0 )); then
+    average_score=$(echo "$total_score / $total_comments" | bc -l)
+else
+    average_score=0
+fi
+
+# Schreibe die Statistik in die Datei
+echo "Gesamtzahl der Kommentare: $total_comments" >> "$statistics_file"
+echo "Positive Kommentare: $positive_comments" >> "$statistics_file"
+echo "Negative Kommentare: $negative_comments" >> "$statistics_file"
+echo "Neutrale Kommentare: $neutral_comments" >> "$statistics_file"
+echo "Durchschnittlicher Sentimentwert: $average_score" >> "$statistics_file"
+echo "Höchster Sentimentwert: $max_score" >> "$statistics_file"
+echo "Niedrigster Sentimentwert: $min_score" >> "$statistics_file"
+
+echo "Statistik wurde generiert in: $statistics_file"
+
