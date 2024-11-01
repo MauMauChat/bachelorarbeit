@@ -1,0 +1,1010 @@
+RLVKEY;SEMESTER;TYP;STUNDEN;CREDITS;LV_STATUS_NR;LV_STATUS;KOMPONENTEN_TYP;FRAGE_TYP;FRAGETEXT;OPTIONEN;ANTWORT;OPTIONNR;FREITEXT
+a53e6669754588d;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1;n/a;neutral;-2;
+277f6a00a09fc6d;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 2;n/a;negativ;-2;
+a53e6669754588d;18W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 3;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 4;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 5;n/a;;-1;auf Studierende eingegangen
+a53e6669754588d;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 6;n/a;neutral;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 7;n/a;positiv;-2;sehr interessante Themen
+974e077c94dfc81;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 8;n/a;neutral;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 9;n/a;neutral;-2;auf Studierende eingegangen
+ca76fca5fb653f5;16S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 10;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;20W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 11;n/a;neutral;-2;
+a53e6669754588d;18W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 12;n/a;negativ;-2;gut strukturierte LV
+a53e6669754588d;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 13;n/a;positiv;-1;sehr interessante Themen
+959353896063576;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 14;n/a;negativ;-2;
+974e077c94dfc81;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 15;n/a;positiv;-2;
+757aeb0f3e66c44;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 16;n/a;negativ;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 17;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 18;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;20W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 19;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 20;n/a;neutral;-2;sehr interessante Themen
+959353896063576;17S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 21;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 22;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;19S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 23;n/a;negativ;-1;gut strukturierte LV
+959353896063576;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 24;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 25;n/a;;-1;sehr interessante Themen
+974e077c94dfc81;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 26;n/a;;-1;gut strukturierte LV
+a53e6669754588d;16S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 27;n/a;;-2;sehr interessante Themen
+ca76fca5fb653f5;16S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 28;n/a;neutral;-1;
+277f6a00a09fc6d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 29;n/a;neutral;-2;
+277f6a00a09fc6d;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 30;n/a;negativ;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 31;n/a;neutral;-2;gut strukturierte LV
+959353896063576;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 32;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;17S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 33;n/a;positiv;-2;sehr interessante Themen
+757aeb0f3e66c44;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 34;n/a;positiv;-2;
+277f6a00a09fc6d;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 35;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 36;n/a;neutral;-1;
+ca76fca5fb653f5;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 37;n/a;negativ;-2;sehr interessante Themen
+974e077c94dfc81;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 38;n/a;;-2;sehr interessante Themen
+959353896063576;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 39;n/a;neutral;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 40;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 41;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 42;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 43;n/a;;-2;sehr interessante Themen
+959353896063576;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 44;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 45;n/a;positiv;-2;
+757aeb0f3e66c44;20W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 46;n/a;positiv;-1;sehr interessante Themen
+a53e6669754588d;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 47;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;16S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 48;n/a;negativ;-1;sehr interessante Themen
+959353896063576;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 49;n/a;;-2;sehr interessante Themen
+959353896063576;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 50;n/a;neutral;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 51;n/a;neutral;-1;gut strukturierte LV
+277f6a00a09fc6d;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 52;n/a;;-2;gut strukturierte LV
+a53e6669754588d;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 53;n/a;neutral;-1;auf Studierende eingegangen
+974e077c94dfc81;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 54;n/a;;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 55;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 56;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 57;n/a;neutral;-1;gut strukturierte LV
+959353896063576;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 58;n/a;;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 59;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;16S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 60;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;16S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 61;n/a;positiv;-1;sympathischer LV-Leiter
+959353896063576;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 62;n/a;negativ;-1;gut strukturierte LV
+959353896063576;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 63;n/a;negativ;-2;auf Studierende eingegangen
+277f6a00a09fc6d;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 64;n/a;;-2;sehr interessante Themen
+277f6a00a09fc6d;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 65;n/a;neutral;-1;
+974e077c94dfc81;20W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 66;n/a;negativ;-1;auf Studierende eingegangen
+974e077c94dfc81;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 67;n/a;;-2;sehr interessante Themen
+757aeb0f3e66c44;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 68;n/a;;-1;gut strukturierte LV
+974e077c94dfc81;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 69;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;19S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 70;n/a;negativ;-1;
+277f6a00a09fc6d;16S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 71;n/a;;-1;auf Studierende eingegangen
+959353896063576;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 72;n/a;negativ;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 73;n/a;neutral;-1;
+959353896063576;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 74;n/a;;-2;gut strukturierte LV
+959353896063576;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 75;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 76;n/a;positiv;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 77;n/a;positiv;-1;sehr interessante Themen
+a53e6669754588d;18W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 78;n/a;;-1;
+757aeb0f3e66c44;19S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 79;n/a;;-2;sehr interessante Themen
+757aeb0f3e66c44;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 80;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 81;n/a;negativ;-1;
+974e077c94dfc81;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 82;n/a;negativ;-1;sehr interessante Themen
+277f6a00a09fc6d;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 83;n/a;;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 84;n/a;neutral;-1;
+974e077c94dfc81;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 85;n/a;positiv;-2;
+277f6a00a09fc6d;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 86;n/a;;-1;sehr interessante Themen
+757aeb0f3e66c44;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 87;n/a;;-1;auf Studierende eingegangen
+757aeb0f3e66c44;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 88;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 89;n/a;positiv;-1;gut strukturierte LV
+ca76fca5fb653f5;19S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 90;n/a;negativ;-1;
+a53e6669754588d;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 91;n/a;;-2;sympathischer LV-Leiter
+974e077c94dfc81;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 92;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 93;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 94;n/a;positiv;-1;
+a53e6669754588d;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 95;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 96;n/a;negativ;-2;gut strukturierte LV
+ca76fca5fb653f5;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 97;n/a;neutral;-1;sympathischer LV-Leiter
+959353896063576;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 98;n/a;neutral;-2;gut strukturierte LV
+959353896063576;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 99;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 100;n/a;positiv;-2;
+974e077c94dfc81;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 101;n/a;;-1;gut strukturierte LV
+757aeb0f3e66c44;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 102;n/a;neutral;-2;sehr interessante Themen
+974e077c94dfc81;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 103;n/a;;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 104;n/a;neutral;-2;sehr interessante Themen
+974e077c94dfc81;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 105;n/a;neutral;-1;sympathischer LV-Leiter
+a53e6669754588d;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 106;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 107;n/a;neutral;-1;sehr interessante Themen
+959353896063576;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 108;n/a;positiv;-1;sehr interessante Themen
+974e077c94dfc81;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 109;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 110;n/a;;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 111;n/a;negativ;-2;
+959353896063576;20W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 112;n/a;neutral;-2;
+959353896063576;19S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 113;n/a;positiv;-2;
+ca76fca5fb653f5;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 114;n/a;neutral;-2;auf Studierende eingegangen
+277f6a00a09fc6d;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 115;n/a;negativ;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 116;n/a;positiv;-2;
+959353896063576;17S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 117;n/a;negativ;-1;sympathischer LV-Leiter
+a53e6669754588d;19S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 118;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 119;n/a;neutral;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 120;n/a;;-2;sympathischer LV-Leiter
+959353896063576;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 121;n/a;positiv;-2;
+974e077c94dfc81;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 122;n/a;;-1;sehr interessante Themen
+a53e6669754588d;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 123;n/a;positiv;-2;auf Studierende eingegangen
+a53e6669754588d;17S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 124;n/a;neutral;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 125;n/a;;-1;auf Studierende eingegangen
+959353896063576;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 126;n/a;negativ;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 127;n/a;;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 128;n/a;neutral;-1;sympathischer LV-Leiter
+959353896063576;16S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 129;n/a;;-1;gut strukturierte LV
+974e077c94dfc81;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 130;n/a;positiv;-2;
+277f6a00a09fc6d;18W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 131;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 132;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 133;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 134;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 135;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 136;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 137;n/a;negativ;-1;
+ca76fca5fb653f5;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 138;n/a;positiv;-1;gut strukturierte LV
+974e077c94dfc81;18W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 139;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 140;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 141;n/a;;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 142;n/a;negativ;-2;
+959353896063576;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 143;n/a;positiv;-1;gut strukturierte LV
+277f6a00a09fc6d;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 144;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 145;n/a;neutral;-1;gut strukturierte LV
+ca76fca5fb653f5;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 146;n/a;negativ;-1;
+959353896063576;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 147;n/a;neutral;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 148;n/a;positiv;-1;
+ca76fca5fb653f5;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 149;n/a;positiv;-2;
+a53e6669754588d;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 150;n/a;positiv;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 151;n/a;;-1;
+a53e6669754588d;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 152;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 153;n/a;positiv;-2;auf Studierende eingegangen
+a53e6669754588d;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 154;n/a;positiv;-2;gut strukturierte LV
+277f6a00a09fc6d;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 155;n/a;negativ;-1;gut strukturierte LV
+757aeb0f3e66c44;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 156;n/a;neutral;-2;auf Studierende eingegangen
+277f6a00a09fc6d;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 157;n/a;neutral;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 158;n/a;;-1;auf Studierende eingegangen
+277f6a00a09fc6d;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 159;n/a;negativ;-2;sehr interessante Themen
+277f6a00a09fc6d;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 160;n/a;negativ;-2;sehr interessante Themen
+959353896063576;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 161;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 162;n/a;neutral;-1;sehr interessante Themen
+757aeb0f3e66c44;18W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 163;n/a;;-2;sehr interessante Themen
+277f6a00a09fc6d;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 164;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 165;n/a;positiv;-1;gut strukturierte LV
+a53e6669754588d;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 166;n/a;neutral;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 167;n/a;negativ;-1;sehr interessante Themen
+959353896063576;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 168;n/a;positiv;-1;
+959353896063576;20W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 169;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 170;n/a;negativ;-1;sehr interessante Themen
+a53e6669754588d;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 171;n/a;negativ;-2;auf Studierende eingegangen
+ca76fca5fb653f5;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 172;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 173;n/a;;-2;sehr interessante Themen
+a53e6669754588d;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 174;n/a;positiv;-2;sehr interessante Themen
+959353896063576;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 175;n/a;negativ;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 176;n/a;positiv;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 177;n/a;positiv;-2;gut strukturierte LV
+974e077c94dfc81;19S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 178;n/a;;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 179;n/a;;-1;
+757aeb0f3e66c44;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 180;n/a;neutral;-1;gut strukturierte LV
+959353896063576;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 181;n/a;neutral;-1;sehr interessante Themen
+757aeb0f3e66c44;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 182;n/a;neutral;-1;
+974e077c94dfc81;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 183;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 184;n/a;neutral;-1;sehr interessante Themen
+277f6a00a09fc6d;17S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 185;n/a;positiv;-2;
+959353896063576;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 186;n/a;positiv;-1;auf Studierende eingegangen
+959353896063576;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 187;n/a;neutral;-1;
+a53e6669754588d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 188;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 189;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 190;n/a;;-1;sympathischer LV-Leiter
+974e077c94dfc81;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 191;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 192;n/a;neutral;-2;sehr interessante Themen
+ca76fca5fb653f5;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 193;n/a;negativ;-1;
+959353896063576;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 194;n/a;;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 195;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;18W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 196;n/a;neutral;-1;auf Studierende eingegangen
+757aeb0f3e66c44;18W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 197;n/a;neutral;-1;gut strukturierte LV
+a53e6669754588d;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 198;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 199;n/a;;-2;
+ca76fca5fb653f5;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 200;n/a;positiv;-1;sehr interessante Themen
+974e077c94dfc81;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 201;n/a;;-1;sehr interessante Themen
+974e077c94dfc81;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 202;n/a;positiv;-2;auf Studierende eingegangen
+277f6a00a09fc6d;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 203;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 204;n/a;negativ;-2;
+277f6a00a09fc6d;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 205;n/a;positiv;-2;auf Studierende eingegangen
+277f6a00a09fc6d;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 206;n/a;negativ;-1;
+ca76fca5fb653f5;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 207;n/a;negativ;-2;
+ca76fca5fb653f5;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 208;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;16S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 209;n/a;neutral;-1;gut strukturierte LV
+277f6a00a09fc6d;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 210;n/a;neutral;-1;
+959353896063576;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 211;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 212;n/a;positiv;-2;sehr interessante Themen
+959353896063576;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 213;n/a;positiv;-1;sympathischer LV-Leiter
+974e077c94dfc81;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 214;n/a;neutral;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 215;n/a;negativ;-2;sehr interessante Themen
+757aeb0f3e66c44;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 216;n/a;negativ;-2;
+a53e6669754588d;16S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 217;n/a;negativ;-1;
+974e077c94dfc81;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 218;n/a;neutral;-2;auf Studierende eingegangen
+277f6a00a09fc6d;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 219;n/a;negativ;-1;sehr interessante Themen
+ca76fca5fb653f5;16S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 220;n/a;positiv;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 221;n/a;negativ;-2;gut strukturierte LV
+757aeb0f3e66c44;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 222;n/a;positiv;-1;sehr interessante Themen
+a53e6669754588d;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 223;n/a;negativ;-2;
+ca76fca5fb653f5;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 224;n/a;negativ;-1;gut strukturierte LV
+757aeb0f3e66c44;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 225;n/a;negativ;-1;
+974e077c94dfc81;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 226;n/a;;-2;gut strukturierte LV
+a53e6669754588d;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 227;n/a;neutral;-2;sehr interessante Themen
+959353896063576;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 228;n/a;negativ;-2;sympathischer LV-Leiter
+a53e6669754588d;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 229;n/a;negativ;-2;auf Studierende eingegangen
+ca76fca5fb653f5;16S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 230;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;20W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 231;n/a;positiv;-2;
+757aeb0f3e66c44;20W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 232;n/a;;-1;gut strukturierte LV
+974e077c94dfc81;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 233;n/a;;-2;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 234;n/a;positiv;-2;auf Studierende eingegangen
+959353896063576;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 235;n/a;positiv;-1;
+974e077c94dfc81;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 236;n/a;neutral;-1;
+959353896063576;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 237;n/a;neutral;-2;
+974e077c94dfc81;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 238;n/a;;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 239;n/a;neutral;-2;
+ca76fca5fb653f5;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 240;n/a;;-1;sehr interessante Themen
+959353896063576;16S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 241;n/a;positiv;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 242;n/a;;-2;
+277f6a00a09fc6d;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 243;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 244;n/a;;-1;gut strukturierte LV
+ca76fca5fb653f5;17S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 245;n/a;neutral;-1;sehr interessante Themen
+757aeb0f3e66c44;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 246;n/a;positiv;-1;
+a53e6669754588d;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 247;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 248;n/a;positiv;-2;gut strukturierte LV
+959353896063576;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 249;n/a;positiv;-1;sympathischer LV-Leiter
+974e077c94dfc81;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 250;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 251;n/a;;-2;sehr interessante Themen
+974e077c94dfc81;17S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 252;n/a;negativ;-1;gut strukturierte LV
+277f6a00a09fc6d;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 253;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 254;n/a;;-2;gut strukturierte LV
+ca76fca5fb653f5;16S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 255;n/a;positiv;-1;
+959353896063576;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 256;n/a;;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 257;n/a;neutral;-2;gut strukturierte LV
+a53e6669754588d;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 258;n/a;neutral;-2;sehr interessante Themen
+959353896063576;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 259;n/a;positiv;-2;
+757aeb0f3e66c44;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 260;n/a;negativ;-2;gut strukturierte LV
+757aeb0f3e66c44;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 261;n/a;;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;18W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 262;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 263;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 264;n/a;positiv;-2;
+a53e6669754588d;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 265;n/a;positiv;-1;auf Studierende eingegangen
+974e077c94dfc81;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 266;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 267;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;20W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 268;n/a;negativ;-1;
+974e077c94dfc81;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 269;n/a;positiv;-1;
+277f6a00a09fc6d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 270;n/a;;-1;auf Studierende eingegangen
+959353896063576;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 271;n/a;neutral;-1;
+757aeb0f3e66c44;17S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 272;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;19S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 273;n/a;neutral;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 274;n/a;negativ;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 275;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 276;n/a;neutral;-1;
+757aeb0f3e66c44;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 277;n/a;negativ;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 278;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 279;n/a;;-1;auf Studierende eingegangen
+277f6a00a09fc6d;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 280;n/a;neutral;-1;
+757aeb0f3e66c44;20W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 281;n/a;neutral;-1;sehr interessante Themen
+959353896063576;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 282;n/a;neutral;-2;auf Studierende eingegangen
+a53e6669754588d;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 283;n/a;;-1;sympathischer LV-Leiter
+959353896063576;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 284;n/a;;-1;gut strukturierte LV
+277f6a00a09fc6d;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 285;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 286;n/a;neutral;-1;sehr interessante Themen
+a53e6669754588d;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 287;n/a;neutral;-2;gut strukturierte LV
+a53e6669754588d;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 288;n/a;positiv;-2;gut strukturierte LV
+959353896063576;19S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 289;n/a;neutral;-2;
+959353896063576;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 290;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 291;n/a;negativ;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 292;n/a;neutral;-2;gut strukturierte LV
+959353896063576;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 293;n/a;positiv;-2;
+974e077c94dfc81;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 294;n/a;;-2;gut strukturierte LV
+ca76fca5fb653f5;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 295;n/a;negativ;-1;sympathischer LV-Leiter
+959353896063576;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 296;n/a;positiv;-2;auf Studierende eingegangen
+a53e6669754588d;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 297;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;17S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 298;n/a;neutral;-1;sympathischer LV-Leiter
+974e077c94dfc81;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 299;n/a;positiv;-2;sympathischer LV-Leiter
+974e077c94dfc81;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 300;n/a;negativ;-2;sehr interessante Themen
+ca76fca5fb653f5;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 301;n/a;neutral;-1;
+ca76fca5fb653f5;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 302;n/a;neutral;-1;gut strukturierte LV
+959353896063576;20W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 303;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 304;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 305;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 306;n/a;neutral;-2;
+ca76fca5fb653f5;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 307;n/a;;-2;auf Studierende eingegangen
+959353896063576;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 308;n/a;negativ;-2;sehr interessante Themen
+959353896063576;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 309;n/a;positiv;-2;
+959353896063576;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 310;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 311;n/a;negativ;-2;gut strukturierte LV
+959353896063576;17S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 312;n/a;negativ;-1;gut strukturierte LV
+959353896063576;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 313;n/a;positiv;-1;
+757aeb0f3e66c44;18W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 314;n/a;positiv;-1;gut strukturierte LV
+ca76fca5fb653f5;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 315;n/a;neutral;-2;auf Studierende eingegangen
+277f6a00a09fc6d;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 316;n/a;negativ;-2;
+a53e6669754588d;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 317;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 318;n/a;negativ;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 319;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;16S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 320;n/a;positiv;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 321;n/a;positiv;-1;sympathischer LV-Leiter
+959353896063576;16S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 322;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 323;n/a;negativ;-2;auf Studierende eingegangen
+959353896063576;16S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 324;n/a;negativ;-2;
+277f6a00a09fc6d;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 325;n/a;negativ;-2;auf Studierende eingegangen
+a53e6669754588d;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 326;n/a;neutral;-1;
+ca76fca5fb653f5;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 327;n/a;neutral;-1;sympathischer LV-Leiter
+a53e6669754588d;20W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 328;n/a;negativ;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 329;n/a;negativ;-1;sehr interessante Themen
+959353896063576;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 330;n/a;negativ;-2;gut strukturierte LV
+959353896063576;20W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 331;n/a;positiv;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 332;n/a;positiv;-2;sehr interessante Themen
+277f6a00a09fc6d;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 333;n/a;;-1;auf Studierende eingegangen
+757aeb0f3e66c44;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 334;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 335;n/a;;-1;gut strukturierte LV
+277f6a00a09fc6d;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 336;n/a;;-1;gut strukturierte LV
+ca76fca5fb653f5;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 337;n/a;;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 338;n/a;;-1;
+959353896063576;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 339;n/a;;-2;auf Studierende eingegangen
+a53e6669754588d;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 340;n/a;negativ;-1;sehr interessante Themen
+959353896063576;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 341;n/a;negativ;-1;
+ca76fca5fb653f5;16S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 342;n/a;;-1;sehr interessante Themen
+a53e6669754588d;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 343;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 344;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;17S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 345;n/a;positiv;-1;sehr interessante Themen
+974e077c94dfc81;18W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 346;n/a;positiv;-2;auf Studierende eingegangen
+974e077c94dfc81;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 347;n/a;negativ;-1;gut strukturierte LV
+959353896063576;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 348;n/a;neutral;-1;sehr interessante Themen
+974e077c94dfc81;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 349;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 350;n/a;positiv;-2;
+757aeb0f3e66c44;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 351;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;18W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 352;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 353;n/a;;-2;gut strukturierte LV
+959353896063576;20W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 354;n/a;;-1;
+974e077c94dfc81;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 355;n/a;negativ;-2;gut strukturierte LV
+ca76fca5fb653f5;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 356;n/a;neutral;-2;gut strukturierte LV
+277f6a00a09fc6d;20W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 357;n/a;negativ;-2;
+757aeb0f3e66c44;20W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 358;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 359;n/a;neutral;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 360;n/a;positiv;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 361;n/a;;-2;
+974e077c94dfc81;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 362;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 363;n/a;;-2;sehr interessante Themen
+a53e6669754588d;17S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 364;n/a;;-2;gut strukturierte LV
+959353896063576;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 365;n/a;neutral;-1;gut strukturierte LV
+277f6a00a09fc6d;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 366;n/a;;-1;
+974e077c94dfc81;20W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 367;n/a;positiv;-2;
+757aeb0f3e66c44;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 368;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 369;n/a;positiv;-2;gut strukturierte LV
+959353896063576;20W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 370;n/a;neutral;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 371;n/a;;-2;auf Studierende eingegangen
+959353896063576;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 372;n/a;;-2;auf Studierende eingegangen
+959353896063576;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 373;n/a;;-2;auf Studierende eingegangen
+959353896063576;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 374;n/a;neutral;-1;
+a53e6669754588d;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 375;n/a;neutral;-1;
+974e077c94dfc81;20W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 376;n/a;negativ;-2;auf Studierende eingegangen
+959353896063576;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 377;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 378;n/a;neutral;-1;sehr interessante Themen
+277f6a00a09fc6d;17S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 379;n/a;positiv;-2;
+ca76fca5fb653f5;16S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 380;n/a;negativ;-1;auf Studierende eingegangen
+a53e6669754588d;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 381;n/a;neutral;-1;sehr interessante Themen
+959353896063576;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 382;n/a;;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 383;n/a;neutral;-2;gut strukturierte LV
+ca76fca5fb653f5;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 384;n/a;positiv;-1;sympathischer LV-Leiter
+a53e6669754588d;16S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 385;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 386;n/a;;-2;auf Studierende eingegangen
+959353896063576;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 387;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 388;n/a;negativ;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 389;n/a;neutral;-1;
+a53e6669754588d;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 390;n/a;;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 391;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;20W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 392;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;16S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 393;n/a;positiv;-2;sehr interessante Themen
+277f6a00a09fc6d;18W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 394;n/a;neutral;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 395;n/a;positiv;-1;
+277f6a00a09fc6d;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 396;n/a;positiv;-2;auf Studierende eingegangen
+974e077c94dfc81;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 397;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 398;n/a;neutral;-1;sehr interessante Themen
+ca76fca5fb653f5;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 399;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 400;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 401;n/a;;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 402;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 403;n/a;negativ;-1;auf Studierende eingegangen
+ca76fca5fb653f5;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 404;n/a;positiv;-1;
+757aeb0f3e66c44;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 405;n/a;negativ;-1;
+ca76fca5fb653f5;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 406;n/a;neutral;-2;
+757aeb0f3e66c44;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 407;n/a;;-2;gut strukturierte LV
+a53e6669754588d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 408;n/a;positiv;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 409;n/a;;-1;
+a53e6669754588d;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 410;n/a;positiv;-1;
+974e077c94dfc81;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 411;n/a;;-2;
+974e077c94dfc81;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 412;n/a;neutral;-1;gut strukturierte LV
+ca76fca5fb653f5;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 413;n/a;;-2;
+959353896063576;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 414;n/a;positiv;-2;gut strukturierte LV
+277f6a00a09fc6d;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 415;n/a;positiv;-1;auf Studierende eingegangen
+959353896063576;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 416;n/a;;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 417;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 418;n/a;negativ;-2;sehr interessante Themen
+277f6a00a09fc6d;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 419;n/a;neutral;-2;
+757aeb0f3e66c44;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 420;n/a;positiv;-2;sehr interessante Themen
+757aeb0f3e66c44;18W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 421;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 422;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 423;n/a;negativ;-1;auf Studierende eingegangen
+974e077c94dfc81;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 424;n/a;;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 425;n/a;neutral;-1;
+ca76fca5fb653f5;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 426;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 427;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 428;n/a;;-1;
+ca76fca5fb653f5;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 429;n/a;;-2;
+277f6a00a09fc6d;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 430;n/a;;-2;gut strukturierte LV
+757aeb0f3e66c44;19S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 431;n/a;positiv;-1;sehr interessante Themen
+ca76fca5fb653f5;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 432;n/a;;-2;
+974e077c94dfc81;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 433;n/a;positiv;-2;auf Studierende eingegangen
+974e077c94dfc81;17S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 434;n/a;neutral;-1;
+757aeb0f3e66c44;19S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 435;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 436;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 437;n/a;;-1;sehr interessante Themen
+974e077c94dfc81;18W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 438;n/a;positiv;-1;auf Studierende eingegangen
+ca76fca5fb653f5;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 439;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 440;n/a;neutral;-2;gut strukturierte LV
+ca76fca5fb653f5;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 441;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 442;n/a;positiv;-1;sehr interessante Themen
+ca76fca5fb653f5;20W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 443;n/a;neutral;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 444;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;19S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 445;n/a;positiv;-1;sympathischer LV-Leiter
+959353896063576;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 446;n/a;neutral;-1;sehr interessante Themen
+959353896063576;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 447;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;17S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 448;n/a;negativ;-2;auf Studierende eingegangen
+277f6a00a09fc6d;16S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 449;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 450;n/a;positiv;-2;auf Studierende eingegangen
+ca76fca5fb653f5;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 451;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 452;n/a;negativ;-1;auf Studierende eingegangen
+959353896063576;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 453;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 454;n/a;positiv;-2;
+959353896063576;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 455;n/a;negativ;-1;gut strukturierte LV
+ca76fca5fb653f5;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 456;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;17S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 457;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 458;n/a;positiv;-2;gut strukturierte LV
+959353896063576;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 459;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 460;n/a;positiv;-1;gut strukturierte LV
+959353896063576;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 461;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 462;n/a;negativ;-2;auf Studierende eingegangen
+959353896063576;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 463;n/a;;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 464;n/a;negativ;-1;gut strukturierte LV
+277f6a00a09fc6d;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 465;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 466;n/a;positiv;-2;auf Studierende eingegangen
+a53e6669754588d;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 467;n/a;positiv;-1;auf Studierende eingegangen
+ca76fca5fb653f5;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 468;n/a;negativ;-1;auf Studierende eingegangen
+974e077c94dfc81;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 469;n/a;neutral;-2;sehr interessante Themen
+277f6a00a09fc6d;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 470;n/a;;-1;
+ca76fca5fb653f5;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 471;n/a;positiv;-1;sehr interessante Themen
+959353896063576;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 472;n/a;negativ;-2;gut strukturierte LV
+a53e6669754588d;20W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 473;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 474;n/a;neutral;-1;gut strukturierte LV
+974e077c94dfc81;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 475;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;19S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 476;n/a;neutral;-2;auf Studierende eingegangen
+ca76fca5fb653f5;16S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 477;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 478;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;17S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 479;n/a;negativ;-1;auf Studierende eingegangen
+277f6a00a09fc6d;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 480;n/a;neutral;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 481;n/a;neutral;-2;
+a53e6669754588d;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 482;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 483;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 484;n/a;positiv;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;20W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 485;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 486;n/a;neutral;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 487;n/a;positiv;-2;gut strukturierte LV
+ca76fca5fb653f5;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 488;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 489;n/a;;-1;gut strukturierte LV
+959353896063576;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 490;n/a;;-2;gut strukturierte LV
+ca76fca5fb653f5;19S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 491;n/a;neutral;-1;gut strukturierte LV
+959353896063576;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 492;n/a;neutral;-2;auf Studierende eingegangen
+a53e6669754588d;19S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 493;n/a;;-1;
+974e077c94dfc81;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 494;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 495;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;18W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 496;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 497;n/a;;-2;sehr interessante Themen
+974e077c94dfc81;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 498;n/a;;-2;
+959353896063576;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 499;n/a;positiv;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 500;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 501;n/a;positiv;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 502;n/a;;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 503;n/a;negativ;-1;sympathischer LV-Leiter
+a53e6669754588d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 504;n/a;;-2;
+959353896063576;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 505;n/a;negativ;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 506;n/a;;-1;
+974e077c94dfc81;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 507;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;18W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 508;n/a;;-1;auf Studierende eingegangen
+959353896063576;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 509;n/a;negativ;-1;auf Studierende eingegangen
+a53e6669754588d;16S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 510;n/a;;-1;sehr interessante Themen
+ca76fca5fb653f5;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 511;n/a;;-2;
+a53e6669754588d;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 512;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;16S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 513;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 514;n/a;negativ;-1;sehr interessante Themen
+974e077c94dfc81;17S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 515;n/a;positiv;-2;
+277f6a00a09fc6d;20W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 516;n/a;positiv;-1;
+ca76fca5fb653f5;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 517;n/a;;-2;gut strukturierte LV
+974e077c94dfc81;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 518;n/a;neutral;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 519;n/a;negativ;-2;gut strukturierte LV
+974e077c94dfc81;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 520;n/a;neutral;-1;gut strukturierte LV
+959353896063576;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 521;n/a;positiv;-1;gut strukturierte LV
+277f6a00a09fc6d;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 522;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 523;n/a;;-1;sympathischer LV-Leiter
+a53e6669754588d;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 524;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 525;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 526;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;17S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 527;n/a;negativ;-2;gut strukturierte LV
+757aeb0f3e66c44;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 528;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 529;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 530;n/a;;-2;sympathischer LV-Leiter
+974e077c94dfc81;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 531;n/a;negativ;-2;gut strukturierte LV
+974e077c94dfc81;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 532;n/a;negativ;-2;gut strukturierte LV
+959353896063576;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 533;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 534;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;20W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 535;n/a;neutral;-2;auf Studierende eingegangen
+959353896063576;17S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 536;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 537;n/a;neutral;-2;
+757aeb0f3e66c44;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 538;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 539;n/a;positiv;-2;sehr interessante Themen
+959353896063576;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 540;n/a;negativ;-1;sehr interessante Themen
+959353896063576;19S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 541;n/a;neutral;-2;
+974e077c94dfc81;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 542;n/a;positiv;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;20W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 543;n/a;negativ;-1;sympathischer LV-Leiter
+959353896063576;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 544;n/a;;-1;auf Studierende eingegangen
+a53e6669754588d;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 545;n/a;neutral;-1;sehr interessante Themen
+974e077c94dfc81;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 546;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 547;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 548;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 549;n/a;negativ;-2;auf Studierende eingegangen
+277f6a00a09fc6d;20W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 550;n/a;negativ;-2;
+277f6a00a09fc6d;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 551;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 552;n/a;;-1;sehr interessante Themen
+974e077c94dfc81;16S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 553;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 554;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;17S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 555;n/a;;-1;gut strukturierte LV
+277f6a00a09fc6d;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 556;n/a;;-2;auf Studierende eingegangen
+959353896063576;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 557;n/a;;-1;auf Studierende eingegangen
+277f6a00a09fc6d;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 558;n/a;neutral;-2;auf Studierende eingegangen
+959353896063576;18W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 559;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;18W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 560;n/a;;-2;sehr interessante Themen
+974e077c94dfc81;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 561;n/a;negativ;-1;sympathischer LV-Leiter
+959353896063576;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 562;n/a;negativ;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 563;n/a;;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 564;n/a;neutral;-1;sehr interessante Themen
+959353896063576;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 565;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 566;n/a;neutral;-2;
+ca76fca5fb653f5;16S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 567;n/a;;-1;gut strukturierte LV
+974e077c94dfc81;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 568;n/a;neutral;-1;
+a53e6669754588d;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 569;n/a;negativ;-2;sehr interessante Themen
+974e077c94dfc81;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 570;n/a;positiv;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 571;n/a;positiv;-2;
+ca76fca5fb653f5;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 572;n/a;negativ;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 573;n/a;positiv;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 574;n/a;;-2;
+a53e6669754588d;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 575;n/a;positiv;-2;gut strukturierte LV
+974e077c94dfc81;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 576;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 577;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 578;n/a;positiv;-1;auf Studierende eingegangen
+757aeb0f3e66c44;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 579;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 580;n/a;negativ;-1;
+959353896063576;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 581;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 582;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 583;n/a;neutral;-2;
+ca76fca5fb653f5;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 584;n/a;negativ;-1;auf Studierende eingegangen
+ca76fca5fb653f5;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 585;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;18W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 586;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 587;n/a;neutral;-2;
+277f6a00a09fc6d;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 588;n/a;negativ;-1;gut strukturierte LV
+ca76fca5fb653f5;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 589;n/a;negativ;-1;gut strukturierte LV
+a53e6669754588d;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 590;n/a;negativ;-1;sehr interessante Themen
+277f6a00a09fc6d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 591;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;18W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 592;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 593;n/a;neutral;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 594;n/a;negativ;-1;gut strukturierte LV
+ca76fca5fb653f5;17S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 595;n/a;positiv;-1;gut strukturierte LV
+277f6a00a09fc6d;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 596;n/a;;-1;
+757aeb0f3e66c44;16S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 597;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 598;n/a;positiv;-1;auf Studierende eingegangen
+959353896063576;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 599;n/a;negativ;-1;auf Studierende eingegangen
+a53e6669754588d;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 600;n/a;neutral;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 601;n/a;negativ;-1;gut strukturierte LV
+959353896063576;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 602;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 603;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 604;n/a;neutral;-2;gut strukturierte LV
+959353896063576;17S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 605;n/a;neutral;-2;
+277f6a00a09fc6d;20W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 606;n/a;neutral;-2;sehr interessante Themen
+959353896063576;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 607;n/a;negativ;-1;
+277f6a00a09fc6d;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 608;n/a;negativ;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 609;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 610;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 611;n/a;negativ;-1;sympathischer LV-Leiter
+959353896063576;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 612;n/a;;-1;auf Studierende eingegangen
+757aeb0f3e66c44;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 613;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 614;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 615;n/a;;-2;sehr interessante Themen
+a53e6669754588d;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 616;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 617;n/a;negativ;-1;sehr interessante Themen
+ca76fca5fb653f5;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 618;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 619;n/a;positiv;-1;
+a53e6669754588d;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 620;n/a;negativ;-1;gut strukturierte LV
+757aeb0f3e66c44;20W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 621;n/a;neutral;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 622;n/a;negativ;-1;sehr interessante Themen
+a53e6669754588d;19S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 623;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 624;n/a;positiv;-1;sehr interessante Themen
+277f6a00a09fc6d;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 625;n/a;negativ;-2;gut strukturierte LV
+ca76fca5fb653f5;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 626;n/a;neutral;-2;
+277f6a00a09fc6d;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 627;n/a;positiv;-2;auf Studierende eingegangen
+959353896063576;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 628;n/a;;-1;
+277f6a00a09fc6d;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 629;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 630;n/a;negativ;-1;gut strukturierte LV
+277f6a00a09fc6d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 631;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 632;n/a;neutral;-2;sehr interessante Themen
+974e077c94dfc81;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 633;n/a;neutral;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 634;n/a;neutral;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 635;n/a;negativ;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 636;n/a;positiv;-2;
+ca76fca5fb653f5;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 637;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 638;n/a;positiv;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 639;n/a;negativ;-2;
+ca76fca5fb653f5;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 640;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 641;n/a;;-1;gut strukturierte LV
+ca76fca5fb653f5;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 642;n/a;;-1;
+974e077c94dfc81;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 643;n/a;;-1;gut strukturierte LV
+ca76fca5fb653f5;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 644;n/a;positiv;-2;auf Studierende eingegangen
+974e077c94dfc81;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 645;n/a;positiv;-2;
+ca76fca5fb653f5;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 646;n/a;;-2;
+ca76fca5fb653f5;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 647;n/a;neutral;-2;
+959353896063576;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 648;n/a;neutral;-2;
+277f6a00a09fc6d;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 649;n/a;negativ;-2;auf Studierende eingegangen
+ca76fca5fb653f5;18W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 650;n/a;neutral;-2;auf Studierende eingegangen
+974e077c94dfc81;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 651;n/a;;-1;sympathischer LV-Leiter
+959353896063576;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 652;n/a;negativ;-1;
+277f6a00a09fc6d;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 653;n/a;neutral;-1;auf Studierende eingegangen
+757aeb0f3e66c44;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 654;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 655;n/a;negativ;-2;sehr interessante Themen
+959353896063576;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 656;n/a;;-2;sympathischer LV-Leiter
+974e077c94dfc81;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 657;n/a;neutral;-1;
+757aeb0f3e66c44;19S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 658;n/a;negativ;-2;gut strukturierte LV
+959353896063576;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 659;n/a;;-2;auf Studierende eingegangen
+a53e6669754588d;19S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 660;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;18W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 661;n/a;neutral;-2;
+ca76fca5fb653f5;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 662;n/a;neutral;-1;sehr interessante Themen
+757aeb0f3e66c44;20W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 663;n/a;negativ;-1;auf Studierende eingegangen
+277f6a00a09fc6d;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 664;n/a;positiv;-1;
+974e077c94dfc81;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 665;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;20W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 666;n/a;;-1;
+974e077c94dfc81;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 667;n/a;neutral;-1;
+959353896063576;18W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 668;n/a;negativ;-2;sehr interessante Themen
+277f6a00a09fc6d;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 669;n/a;;-1;sympathischer LV-Leiter
+959353896063576;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 670;n/a;;-1;gut strukturierte LV
+959353896063576;18W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 671;n/a;positiv;-1;
+ca76fca5fb653f5;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 672;n/a;positiv;-2;gut strukturierte LV
+974e077c94dfc81;19S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 673;n/a;neutral;-1;gut strukturierte LV
+974e077c94dfc81;17S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 674;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 675;n/a;positiv;-1;
+a53e6669754588d;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 676;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 677;n/a;neutral;-1;sehr interessante Themen
+a53e6669754588d;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 678;n/a;;-2;auf Studierende eingegangen
+757aeb0f3e66c44;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 679;n/a;neutral;-1;sympathischer LV-Leiter
+a53e6669754588d;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 680;n/a;;-1;gut strukturierte LV
+a53e6669754588d;20W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 681;n/a;;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 682;n/a;neutral;-1;
+a53e6669754588d;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 683;n/a;positiv;-1;sympathischer LV-Leiter
+974e077c94dfc81;19S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 684;n/a;positiv;-1;auf Studierende eingegangen
+959353896063576;19S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 685;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 686;n/a;;-1;
+ca76fca5fb653f5;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 687;n/a;positiv;-1;
+757aeb0f3e66c44;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 688;n/a;;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 689;n/a;positiv;-1;gut strukturierte LV
+277f6a00a09fc6d;18W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 690;n/a;positiv;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 691;n/a;negativ;-2;gut strukturierte LV
+277f6a00a09fc6d;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 692;n/a;neutral;-1;sympathischer LV-Leiter
+974e077c94dfc81;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 693;n/a;negativ;-1;sehr interessante Themen
+277f6a00a09fc6d;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 694;n/a;;-2;auf Studierende eingegangen
+a53e6669754588d;18W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 695;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 696;n/a;negativ;-1;auf Studierende eingegangen
+959353896063576;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 697;n/a;positiv;-2;gut strukturierte LV
+974e077c94dfc81;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 698;n/a;positiv;-1;auf Studierende eingegangen
+974e077c94dfc81;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 699;n/a;neutral;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 700;n/a;;-1;sehr interessante Themen
+ca76fca5fb653f5;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 701;n/a;positiv;-1;
+757aeb0f3e66c44;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 702;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;20W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 703;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 704;n/a;;-1;sehr interessante Themen
+974e077c94dfc81;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 705;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;18W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 706;n/a;negativ;-1;gut strukturierte LV
+757aeb0f3e66c44;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 707;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 708;n/a;;-1;sehr interessante Themen
+757aeb0f3e66c44;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 709;n/a;neutral;-2;auf Studierende eingegangen
+959353896063576;18W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 710;n/a;;-2;sympathischer LV-Leiter
+a53e6669754588d;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 711;n/a;neutral;-1;sympathischer LV-Leiter
+974e077c94dfc81;17S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 712;n/a;neutral;-1;gut strukturierte LV
+959353896063576;17S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 713;n/a;negativ;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 714;n/a;neutral;-2;
+277f6a00a09fc6d;16S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 715;n/a;neutral;-1;
+277f6a00a09fc6d;20W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 716;n/a;positiv;-1;auf Studierende eingegangen
+959353896063576;20W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 717;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 718;n/a;negativ;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 719;n/a;;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 720;n/a;negativ;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 721;n/a;neutral;-2;
+974e077c94dfc81;18W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 722;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 723;n/a;negativ;-2;sympathischer LV-Leiter
+a53e6669754588d;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 724;n/a;positiv;-1;
+ca76fca5fb653f5;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 725;n/a;negativ;-2;gut strukturierte LV
+959353896063576;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 726;n/a;positiv;-2;
+974e077c94dfc81;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 727;n/a;negativ;-2;sehr interessante Themen
+ca76fca5fb653f5;17S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 728;n/a;positiv;-2;sehr interessante Themen
+277f6a00a09fc6d;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 729;n/a;negativ;-1;
+974e077c94dfc81;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 730;n/a;positiv;-1;sehr interessante Themen
+757aeb0f3e66c44;16S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 731;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 732;n/a;;-2;
+757aeb0f3e66c44;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 733;n/a;;-1;sympathischer LV-Leiter
+959353896063576;17S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 734;n/a;negativ;-2;sehr interessante Themen
+757aeb0f3e66c44;20W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 735;n/a;neutral;-1;sympathischer LV-Leiter
+959353896063576;20W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 736;n/a;neutral;-2;sehr interessante Themen
+277f6a00a09fc6d;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 737;n/a;;-2;
+277f6a00a09fc6d;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 738;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 739;n/a;;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 740;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 741;n/a;negativ;-2;
+974e077c94dfc81;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 742;n/a;neutral;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 743;n/a;positiv;-2;
+ca76fca5fb653f5;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 744;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;16S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 745;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 746;n/a;neutral;-2;sehr interessante Themen
+959353896063576;17S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 747;n/a;positiv;-1;gut strukturierte LV
+974e077c94dfc81;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 748;n/a;neutral;-1;
+a53e6669754588d;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 749;n/a;neutral;-1;sehr interessante Themen
+959353896063576;20W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 750;n/a;negativ;-2;sehr interessante Themen
+277f6a00a09fc6d;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 751;n/a;negativ;-2;auf Studierende eingegangen
+a53e6669754588d;20W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 752;n/a;;-2;
+757aeb0f3e66c44;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 753;n/a;positiv;-1;
+974e077c94dfc81;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 754;n/a;positiv;-1;sympathischer LV-Leiter
+a53e6669754588d;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 755;n/a;neutral;-1;gut strukturierte LV
+277f6a00a09fc6d;20W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 756;n/a;positiv;-1;gut strukturierte LV
+277f6a00a09fc6d;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 757;n/a;positiv;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 758;n/a;neutral;-2;
+757aeb0f3e66c44;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 759;n/a;neutral;-2;sehr interessante Themen
+ca76fca5fb653f5;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 760;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;18W;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 761;n/a;neutral;-1;sehr interessante Themen
+974e077c94dfc81;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 762;n/a;neutral;-2;
+757aeb0f3e66c44;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 763;n/a;neutral;-2;
+959353896063576;16S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 764;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 765;n/a;;-2;auf Studierende eingegangen
+959353896063576;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 766;n/a;positiv;-2;
+757aeb0f3e66c44;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 767;n/a;negativ;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 768;n/a;;-1;sympathischer LV-Leiter
+a53e6669754588d;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 769;n/a;positiv;-2;auf Studierende eingegangen
+959353896063576;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 770;n/a;negativ;-1;sehr interessante Themen
+ca76fca5fb653f5;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 771;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 772;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 773;n/a;neutral;-1;auf Studierende eingegangen
+974e077c94dfc81;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 774;n/a;;-2;gut strukturierte LV
+a53e6669754588d;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 775;n/a;negativ;-2;auf Studierende eingegangen
+277f6a00a09fc6d;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 776;n/a;neutral;-1;auf Studierende eingegangen
+974e077c94dfc81;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 777;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 778;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 779;n/a;negativ;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 780;n/a;neutral;-1;
+ca76fca5fb653f5;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 781;n/a;negativ;-1;
+974e077c94dfc81;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 782;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 783;n/a;;-2;auf Studierende eingegangen
+959353896063576;20W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 784;n/a;positiv;-1;
+ca76fca5fb653f5;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 785;n/a;;-2;sympathischer LV-Leiter
+959353896063576;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 786;n/a;neutral;-2;
+a53e6669754588d;17S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 787;n/a;neutral;-2;
+277f6a00a09fc6d;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 788;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 789;n/a;;-2;
+959353896063576;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 790;n/a;neutral;-2;sehr interessante Themen
+959353896063576;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 791;n/a;negativ;-1;sympathischer LV-Leiter
+974e077c94dfc81;18W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 792;n/a;negativ;-2;
+ca76fca5fb653f5;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 793;n/a;negativ;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;20W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 794;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 795;n/a;neutral;-1;
+ca76fca5fb653f5;17S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 796;n/a;positiv;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 797;n/a;neutral;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 798;n/a;positiv;-2;sehr interessante Themen
+277f6a00a09fc6d;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 799;n/a;positiv;-2;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 800;n/a;negativ;-1;
+ca76fca5fb653f5;19S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 801;n/a;neutral;-1;auf Studierende eingegangen
+974e077c94dfc81;20W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 802;n/a;positiv;-1;
+757aeb0f3e66c44;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 803;n/a;negativ;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;18W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 804;n/a;negativ;-1;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 805;n/a;neutral;-2;
+974e077c94dfc81;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 806;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 807;n/a;negativ;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 808;n/a;neutral;-2;
+a53e6669754588d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 809;n/a;;-1;sehr interessante Themen
+277f6a00a09fc6d;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 810;n/a;;-1;
+a53e6669754588d;18W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 811;n/a;positiv;-1;
+ca76fca5fb653f5;20W;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 812;n/a;negativ;-1;
+959353896063576;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 813;n/a;positiv;-2;
+ca76fca5fb653f5;16S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 814;n/a;positiv;-1;
+959353896063576;19S;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 815;n/a;positiv;-1;gut strukturierte LV
+a53e6669754588d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 816;n/a;;-1;sehr interessante Themen
+ca76fca5fb653f5;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 817;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;20W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 818;n/a;neutral;-1;auf Studierende eingegangen
+a53e6669754588d;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 819;n/a;;-1;auf Studierende eingegangen
+ca76fca5fb653f5;17S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 820;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 821;n/a;negativ;-1;gut strukturierte LV
+a53e6669754588d;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 822;n/a;positiv;-2;
+757aeb0f3e66c44;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 823;n/a;positiv;-1;
+277f6a00a09fc6d;18W;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 824;n/a;;-1;sympathischer LV-Leiter
+a53e6669754588d;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 825;n/a;negativ;-1;gut strukturierte LV
+a53e6669754588d;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 826;n/a;positiv;-2;
+959353896063576;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 827;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;19S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 828;n/a;neutral;-2;sehr interessante Themen
+a53e6669754588d;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 829;n/a;negativ;-2;
+a53e6669754588d;18W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 830;n/a;positiv;-1;auf Studierende eingegangen
+757aeb0f3e66c44;16S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 831;n/a;;-1;
+a53e6669754588d;20W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 832;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;17S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 833;n/a;negativ;-2;auf Studierende eingegangen
+a53e6669754588d;20W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 834;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;16S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 835;n/a;neutral;-1;sympathischer LV-Leiter
+974e077c94dfc81;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 836;n/a;positiv;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 837;n/a;;-2;auf Studierende eingegangen
+ca76fca5fb653f5;17S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 838;n/a;positiv;-2;auf Studierende eingegangen
+757aeb0f3e66c44;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 839;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;17S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 840;n/a;neutral;-2;auf Studierende eingegangen
+277f6a00a09fc6d;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 841;n/a;neutral;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 842;n/a;;-1;
+757aeb0f3e66c44;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 843;n/a;neutral;-1;gut strukturierte LV
+757aeb0f3e66c44;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 844;n/a;neutral;-1;
+757aeb0f3e66c44;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 845;n/a;;-1;auf Studierende eingegangen
+974e077c94dfc81;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 846;n/a;neutral;-2;
+959353896063576;16S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 847;n/a;positiv;-1;sehr interessante Themen
+974e077c94dfc81;19S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 848;n/a;positiv;-1;gut strukturierte LV
+959353896063576;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 849;n/a;positiv;-1;
+ca76fca5fb653f5;19S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 850;n/a;;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;18W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 851;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 852;n/a;neutral;-1;sehr interessante Themen
+959353896063576;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 853;n/a;;-2;gut strukturierte LV
+277f6a00a09fc6d;20W;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 854;n/a;positiv;-2;
+a53e6669754588d;17S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 855;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;16S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 856;n/a;neutral;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 857;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;20W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 858;n/a;positiv;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;18W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 859;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 860;n/a;neutral;-2;
+959353896063576;18W;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 861;n/a;;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 862;n/a;negativ;-2;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 863;n/a;negativ;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 864;n/a;negativ;-2;auf Studierende eingegangen
+974e077c94dfc81;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 865;n/a;neutral;-1;gut strukturierte LV
+974e077c94dfc81;20W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 866;n/a;neutral;-2;sympathischer LV-Leiter
+959353896063576;17S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 867;n/a;negativ;-1;gut strukturierte LV
+757aeb0f3e66c44;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 868;n/a;positiv;-2;gut strukturierte LV
+a53e6669754588d;20W;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 869;n/a;negativ;-2;auf Studierende eingegangen
+757aeb0f3e66c44;18W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 870;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 871;n/a;neutral;-1;sehr interessante Themen
+a53e6669754588d;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 872;n/a;;-1;sehr interessante Themen
+277f6a00a09fc6d;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 873;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 874;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 875;n/a;;-1;auf Studierende eingegangen
+a53e6669754588d;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 876;n/a;positiv;-1;auf Studierende eingegangen
+277f6a00a09fc6d;19S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 877;n/a;neutral;-2;auf Studierende eingegangen
+974e077c94dfc81;17S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 878;n/a;negativ;-2;auf Studierende eingegangen
+ca76fca5fb653f5;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 879;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 880;n/a;negativ;-2;gut strukturierte LV
+959353896063576;20W;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 881;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;17S;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 882;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 883;n/a;neutral;-2;
+959353896063576;16S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 884;n/a;neutral;-2;
+974e077c94dfc81;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 885;n/a;neutral;-1;auf Studierende eingegangen
+ca76fca5fb653f5;20W;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 886;n/a;;-1;gut strukturierte LV
+ca76fca5fb653f5;19S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 887;n/a;negativ;-2;gut strukturierte LV
+a53e6669754588d;20W;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 888;n/a;positiv;-2;sehr interessante Themen
+974e077c94dfc81;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 889;n/a;negativ;-2;
+974e077c94dfc81;18W;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 890;n/a;neutral;-1;
+959353896063576;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 891;n/a;;-2;sympathischer LV-Leiter
+959353896063576;18W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 892;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 893;n/a;;-2;auf Studierende eingegangen
+959353896063576;17S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 894;n/a;neutral;-1;sehr interessante Themen
+959353896063576;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 895;n/a;;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;20W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 896;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 897;n/a;negativ;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;20W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 898;n/a;positiv;-2;sehr interessante Themen
+757aeb0f3e66c44;19S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 899;n/a;;-1;sympathischer LV-Leiter
+959353896063576;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 900;n/a;negativ;-2;auf Studierende eingegangen
+ca76fca5fb653f5;16S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 901;n/a;neutral;-1;sehr interessante Themen
+974e077c94dfc81;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 902;n/a;neutral;-2;
+ca76fca5fb653f5;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 903;n/a;positiv;-1;sehr interessante Themen
+ca76fca5fb653f5;20W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 904;n/a;neutral;-2;gut strukturierte LV
+277f6a00a09fc6d;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 905;n/a;positiv;-2;gut strukturierte LV
+277f6a00a09fc6d;17S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 906;n/a;negativ;-1;gut strukturierte LV
+a53e6669754588d;20W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 907;n/a;positiv;-2;gut strukturierte LV
+959353896063576;16S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 908;n/a;positiv;-2;sehr interessante Themen
+a53e6669754588d;19S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 909;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;20W;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 910;n/a;positiv;-1;sympathischer LV-Leiter
+959353896063576;19S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 911;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;19S;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 912;n/a;neutral;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;18W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 913;n/a;positiv;-1;
+959353896063576;17S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 914;n/a;neutral;-2;sehr interessante Themen
+ca76fca5fb653f5;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 915;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 916;n/a;positiv;-1;sympathischer LV-Leiter
+974e077c94dfc81;17S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 917;n/a;neutral;-2;sympathischer LV-Leiter
+a53e6669754588d;20W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 918;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 919;n/a;positiv;-1;
+277f6a00a09fc6d;18W;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 920;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;19S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 921;n/a;neutral;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 922;n/a;neutral;-1;auf Studierende eingegangen
+277f6a00a09fc6d;16S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 923;n/a;negativ;-2;
+ca76fca5fb653f5;18W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 924;n/a;positiv;-2;
+974e077c94dfc81;17S;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 925;n/a;;-2;
+757aeb0f3e66c44;16S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 926;n/a;negativ;-1;sympathischer LV-Leiter
+959353896063576;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 927;n/a;negativ;-1;sehr interessante Themen
+a53e6669754588d;16S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 928;n/a;negativ;-1;gut strukturierte LV
+ca76fca5fb653f5;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 929;n/a;neutral;-1;gut strukturierte LV
+277f6a00a09fc6d;20W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 930;n/a;neutral;-2;
+757aeb0f3e66c44;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 931;n/a;;-2;gut strukturierte LV
+959353896063576;19S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 932;n/a;;-2;auf Studierende eingegangen
+277f6a00a09fc6d;19S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 933;n/a;negativ;-2;gut strukturierte LV
+a53e6669754588d;20W;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 934;n/a;negativ;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;16S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 935;n/a;positiv;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 936;n/a;positiv;-1;sehr interessante Themen
+757aeb0f3e66c44;19S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 937;n/a;positiv;-2;
+277f6a00a09fc6d;19S;PS;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 938;n/a;negativ;-1;auf Studierende eingegangen
+a53e6669754588d;16S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 939;n/a;positiv;-2;
+ca76fca5fb653f5;16S;PS;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 940;n/a;;-2;auf Studierende eingegangen
+974e077c94dfc81;16S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 941;n/a;;-2;sehr interessante Themen
+757aeb0f3e66c44;20W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 942;n/a;neutral;-2;sehr interessante Themen
+974e077c94dfc81;17S;UE;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 943;n/a;negativ;-2;sehr interessante Themen
+a53e6669754588d;19S;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 944;n/a;neutral;-1;sympathischer LV-Leiter
+974e077c94dfc81;20W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 945;n/a;;-1;sympathischer LV-Leiter
+277f6a00a09fc6d;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 946;n/a;neutral;-1;gut strukturierte LV
+a53e6669754588d;17S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 947;n/a;positiv;-2;gut strukturierte LV
+757aeb0f3e66c44;18W;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 948;n/a;negativ;-2;sehr interessante Themen
+757aeb0f3e66c44;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 949;n/a;neutral;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;19S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 950;n/a;negativ;-2;
+757aeb0f3e66c44;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 951;n/a;neutral;-2;sehr interessante Themen
+757aeb0f3e66c44;19S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 952;n/a;positiv;-1;sympathischer LV-Leiter
+a53e6669754588d;19S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 953;n/a;positiv;-1;
+a53e6669754588d;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 954;n/a;positiv;-2;gut strukturierte LV
+974e077c94dfc81;18W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 955;n/a;positiv;-2;auf Studierende eingegangen
+277f6a00a09fc6d;17S;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 956;n/a;;-2;sehr interessante Themen
+959353896063576;17S;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 957;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 958;n/a;;-1;gut strukturierte LV
+a53e6669754588d;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 959;n/a;negativ;-1;auf Studierende eingegangen
+757aeb0f3e66c44;18W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 960;n/a;negativ;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;20W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 961;n/a;positiv;-1;sympathischer LV-Leiter
+974e077c94dfc81;19S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 962;n/a;;-1;gut strukturierte LV
+277f6a00a09fc6d;16S;UE;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 963;n/a;negativ;-1;auf Studierende eingegangen
+ca76fca5fb653f5;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 964;n/a;neutral;-1;gut strukturierte LV
+ca76fca5fb653f5;20W;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 965;n/a;negativ;-2;sympathischer LV-Leiter
+959353896063576;17S;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 966;n/a;;-2;gut strukturierte LV
+ca76fca5fb653f5;20W;VC;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 967;n/a;;-2;gut strukturierte LV
+a53e6669754588d;18W;VC;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 968;n/a;;-2;sehr interessante Themen
+757aeb0f3e66c44;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 969;n/a;;-2;gut strukturierte LV
+ca76fca5fb653f5;18W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 970;n/a;positiv;-2;gut strukturierte LV
+277f6a00a09fc6d;16S;VO;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 971;n/a;;-1;
+277f6a00a09fc6d;18W;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 972;n/a;negativ;-2;sympathischer LV-Leiter
+a53e6669754588d;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 973;n/a;negativ;-2;
+277f6a00a09fc6d;18W;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 974;n/a;neutral;-2;auf Studierende eingegangen
+959353896063576;20W;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 975;n/a;neutral;-2;sympathischer LV-Leiter
+757aeb0f3e66c44;17S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 976;n/a;positiv;-2;sehr interessante Themen
+ca76fca5fb653f5;17S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 977;n/a;;-2;
+ca76fca5fb653f5;20W;UE;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 978;n/a;;-2;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 979;n/a;neutral;-2;auf Studierende eingegangen
+ca76fca5fb653f5;16S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 980;n/a;positiv;-2;sympathischer LV-Leiter
+277f6a00a09fc6d;17S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 981;n/a;neutral;-1;auf Studierende eingegangen
+959353896063576;16S;VC;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 982;n/a;positiv;-1;sehr interessante Themen
+ca76fca5fb653f5;18W;UE;1.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 983;n/a;neutral;-1;sympathischer LV-Leiter
+ca76fca5fb653f5;17S;VO;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 984;n/a;negativ;-1;gut strukturierte LV
+a53e6669754588d;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 985;n/a;neutral;-2;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VO;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 986;n/a;positiv;-2;sympathischer LV-Leiter
+959353896063576;17S;VC;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 987;n/a;negativ;-2;gut strukturierte LV
+757aeb0f3e66c44;17S;UE;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 988;n/a;;-1;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VC;1.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 989;n/a;neutral;-1;sehr interessante Themen
+959353896063576;20W;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 990;n/a;;-2;auf Studierende eingegangen
+ca76fca5fb653f5;17S;UE;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 991;n/a;neutral;-2;
+959353896063576;20W;PS;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 992;n/a;negativ;-1;gut strukturierte LV
+974e077c94dfc81;18W;PS;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 993;n/a;;-1;
+277f6a00a09fc6d;19S;VO;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 994;n/a;positiv;-2;sympathischer LV-Leiter
+a53e6669754588d;18W;VC;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 995;n/a;neutral;-2;sehr interessante Themen
+277f6a00a09fc6d;20W;VO;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 996;n/a;neutral;-2;auf Studierende eingegangen
+ca76fca5fb653f5;19S;VO;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 997;n/a;neutral;-2;gut strukturierte LV
+ca76fca5fb653f5;17S;VO;1.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 998;n/a;;-1;sehr interessante Themen
+277f6a00a09fc6d;20W;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 999;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;16S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1000;n/a;positiv;-1;gut strukturierte LV
+757aeb0f3e66c44;17S;PS;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1001;n/a;positiv;-1;auf Studierende eingegangen
+a53e6669754588d;18W;PS;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1002;n/a;positiv;-2;
+277f6a00a09fc6d;17S;UE;2.0;3.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1003;n/a;negativ;-1;sehr interessante Themen
+959353896063576;20W;UE;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1004;n/a;negativ;-1;auf Studierende eingegangen
+a53e6669754588d;17S;PS;1.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1005;n/a;neutral;-2;auf Studierende eingegangen
+959353896063576;16S;VC;2.0;2.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1006;n/a;neutral;-2;gut strukturierte LV
+974e077c94dfc81;16S;PS;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1007;n/a;positiv;-2;auf Studierende eingegangen
+277f6a00a09fc6d;19S;VC;2.0;1.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1008;n/a;negativ;-2;sympathischer LV-Leiter
+974e077c94dfc81;19S;VO;2.0;5.0;50;genehmigt;Uni;FREITEXT;Das ist der Fragetext 1009;n/a;negativ;-1;auf Studierende eingegangen

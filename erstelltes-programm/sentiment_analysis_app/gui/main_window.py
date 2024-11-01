@@ -7,15 +7,38 @@ from analysis.report_generator import ReportGenerator
 from analysis.r_visualization import RVisualization
 
 class MainWindow:
+    """
+    Hauptklasse für die GUI der Sentiment-Analyse-Anwendung.
+
+    Diese Klasse erstellt und verwaltet das Hauptfenster der Anwendung,
+    einschließlich der GUI-Elemente und Funktionen für die Benutzerinteraktion.
+    """
+    
     def __init__(self, root):
+        """
+        Initialisiert das Hauptfenster der Anwendung.
+
+        Parameter:
+        root (tk.Tk): Das Hauptfenster-Objekt der Tkinter-Anwendung.
+
+        Diese Methode setzt die grundlegenden Fensterattribute wie Titel und
+        Größe und ruft die Funktion zur GUI-Erstellung auf.
+        """
         self.root = root
         self.root.title("Sentiment Analyse Anwendung")
         self.root.geometry("800x600")
         self.root.configure(bg="#E8EAF6")
-        self.selected_directories = []
+        self.selected_directories = []  # Liste der vom Benutzer ausgewählten Verzeichnisse
         self.setup_gui()
-
+        
     def setup_gui(self):
+        """
+        Erstellt die grafische Benutzeroberfläche für die Anwendung.
+
+        Diese Methode definiert das GUI-Layout, einschließlich Stile und
+        Beschriftungen, und fügt Schaltflächen für die Verzeichnisauswahl und
+        das Starten der Analyse hinzu.
+        """
         style = ttk.Style()
         style.theme_use("clam")
         style.configure("TFrame", background="#E8EAF6")
@@ -46,6 +69,13 @@ class MainWindow:
         analyze_button.pack(pady=10)
 
     def select_folders(self):
+        """
+        Öffnet einen Dialog zur Auswahl der Verzeichnisse und speichert die Auswahl.
+
+        Diese Methode ruft den FileSelector auf, um Ordner mit CSV-Dateien auszuwählen.
+        Die ausgewählten Verzeichnisse werden in der Liste `selected_directories` gespeichert.
+        Falls keine Ordner ausgewählt werden, wird eine Warnmeldung angezeigt.
+        """
         selector = FileSelector()
         directories = selector.select_directories()
         if directories:
@@ -55,6 +85,13 @@ class MainWindow:
             messagebox.showwarning("Keine Ordner ausgewählt", "Bitte wählen Sie mindestens einen Ordner aus.")
 
     def start_analysis(self):
+        """
+        Startet die Sentimentanalyse für die ausgewählten Verzeichnisse.
+
+        Diese Methode erstellt Instanzen des SentimentAnalyzers, des RVisualizations,
+        und des ReportGenerators, um die Analyse durchzuführen, Visualisierungen zu erstellen,
+        und einen Bericht zu generieren. Fehler während der Analyse werden abgefangen und angezeigt.
+        """
         if not self.selected_directories:
             messagebox.showwarning("Fehler", "Keine Ordner ausgewählt.")
             return
