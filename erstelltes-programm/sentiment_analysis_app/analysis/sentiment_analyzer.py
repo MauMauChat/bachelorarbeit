@@ -14,7 +14,7 @@ class SentimentAnalyzer:
         Initializes the SentimentAnalyzer with language-specific Afinn sentiment analyzers and other
         utility instances such as a language detector and file manager.
         """
-        self.afinn_de = Afinn(language='de')
+        #self.afinn_de = Afinn(self, language='de')
         self.afinn_en = Afinn(language='en')
         self.language_detector = LanguageDetector()
         self.file_manager = FileManager()

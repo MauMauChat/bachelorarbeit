@@ -1,7 +1,7 @@
 import sys
 import tkinter as tk
 from gui.main_window import MainWindow
-
+      
 def main():
     """
     Hauptfunktion zur Initialisierung und Ausführung der GUI-Anwendung.
@@ -27,7 +27,9 @@ def main():
     except Exception as e:
         # Fehlerbehandlung: Ausgabe einer Fehlermeldung und Beendigung des Programms
         print(f"Ein unerwarteter Fehler ist aufgetreten: {e}")
+        print("Das ist alle gut")
         sys.exit(1)
+        
 
 if __name__ == '__main__':
     # Einstiegspunkt: Startet die main()-Funktion, wenn das Skript direkt ausgeführt wird

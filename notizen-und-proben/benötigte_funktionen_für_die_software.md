@@ -1,5 +1,5 @@
 
-Ich benötige eine vollständige und professionell kommentierte Umsetzung der folgenden Bash-Skripte in Python für den Einsatz in einem **Unternehmensumfeld**. Bitte berücksichtige alle möglichen Fehlerquellen und Benutzer-Eingaben.
+Ich benötige eine vollständige und professionell kommentierte Umsetzung der folgenden Bash-Skripte in Python für den Einsatz in einem **Unternehmensumfeld**. Bitte berücksichtige alle möglichen Fehlerquellen und Benutzer-Eingaben. Erstelle die Files mit echo oder cat und speichere sie mit >> in den Ordner ~/Documents/Notes/bachelorarbeit/erstelltes-programm. Erstelle auch alle folder mit mkdir -p. Alles soll in einem groß Block sein, den man rauskopieren kann. Ich möchte diesen Block direkt in das Termianl eingebe. Es soll somit das vollkommen fertige Programm in einem block in alle richitgen Ordner haben.
 
 ### Verwendete Technologien:
 - **Python**
@@ -23,12 +23,9 @@ sentiment_analysis_app/
 ├── utils/
 │   ├── file_manager.py      # Dateioperationen und Verzeichnis-Management
 │   ├── constants.py         # Globale Konstanten und Pfade
-├── templates/
-│   └── report_template.html # HTML-Vorlage für den Report
  
 
 ### Pfade
-/home/lucy/Documents/Notes/bachelorarbeit/report_template.html
 /home/lucy/Documents/zulöschen  // Hier soll die Output-pdf und bild speichrung (bilder sind in einem bild Ordner sein.
 csv $ tree
 .
@@ -126,15 +123,12 @@ csv $
 3. **`analysis/`**:
    - **`sentiment_analyzer.py`**: Enthält die Klassen und Methoden zur Durchführung der Sentimentanalyse (z. B. `SentimentAnalyzer`). Die Datei lädt die AFINN-Lexika und enthält Methoden zur Berechnung des Sentiments.
    - **`language_detector.py`**: Verwaltung der Sprachenerkennung und Zuweisung der Kommentare. Falls ein Kommentar nicht als Deutsch oder Englisch identifiziert werden kann, wird er in eine separate Datei geschrieben.
-   - **`report_generator.py`**: Diese Datei generiert den PDF-Report aus den gesammelten Daten. Sie verwendet die Jinja2-Vorlage und `pdfkit`, um aus der HTML-Vorlage eine PDF-Datei zu erstellen.
    - **`r_visualization.py`**: Stellt Funktionen für die statistische Analyse und Visualisierung mit R zur Verfügung. Hier werden die R-Bibliotheken und ggplot2 genutzt, um Diagramme zu generieren und in einem definierten Ausgabeordner zu speichern.
 
 4. **`utils/`**:
    - **`file_manager.py`**: Enthält Funktionen zum Verwalten der Dateien und Verzeichnisse, z. B. zum Laden und Speichern von CSV-Dateien oder zum Erstellen der benötigten Ausgabeordner.
    - **`constants.py`**: Speichert globale Konstanten wie Standardpfade, Dateinamenskonventionen und andere wiederverwendbare Konstanten.
 
-5. **`templates/`**:
-   - **`report_template.html`**: HTML-Template für den Bericht. Wird von `report_generator.py` genutzt, um den PDF-Bericht zu generieren.
 
  
 ### Funktionalität der Software:
@@ -508,3 +502,18 @@ if __name__ == "__main__":
     app = FileExplorer()
     app.mainloop()
 
+# Hier sind die Spaltenname der jeweiligen Files
+Filename: FB Freitextantworten.csv
+'RLVKEY';'SEMESTER';'TYP';'STUNDEN';'CREDITS';'LV_STATUS_NR';'LV_STATUS';'KOMPONENTEN_TYP';'FRAGE_TYP';'FRAGETEXT';'OPTIONEN';'ANTWORT';'OPTIONNR';'FREITEXT'
+
+Filename: Alle Fragebögen.csv
+'SEM';'RLVKEY';'SEMESTER';'TYP';'STUNDEN';'CREDITS';'LV_STATUS_NR';'LV_STATUS';'FRAGEBOGEN_ID';'BEZEICHNUNG';'BEGINN_BEFRAGUNG';'ENDE_BEFRAGUNG';'ENDE_STELLUNGNAHME';'BEGINN_VEROEFFENTLICHUNG';'HAT_STELLUNGNAHME';'DATUM_STELLUNGNAHME';'STELLUNGNAHME';'GESAMTFRAGE';'FRAGE_KEY';'IST_GESAMTFRAGE';'FRAGETEXT';'FRAGE_TYP';'FRAGETYP_BEZEICHNUNG';'KOMPONENTEN_TYP';'KOMPONENTE_NUMMERIERUNG';'FRAGE_NUMMERIERUNG';'KEINE_ANTWORT_MOEGLICH';'FREITEXT_MOEGLICH';'SINGLE_MULTIPLE';'AUSWERTUNG';'OPTIONEN_GRUPPE_BEZ';'OPTIONEN';'ANZ_OPTIONEN';'VEROEFFENTLICHEN';'RLV_KOMPONENTEN_GESAMT';'RLV_KOMPONENTEN_UNI';'RLV_KOMPONENTEN_LEHRER';'ANZ_RUECKLAUF';'ANZ_FEEDBACK';'ANZ_ABGELEHNT';'ANZ_ABGELEHNT_ANMERKUNG';'ANZ_ANTWORT_FRAGE_GESAMT';'ANZ_ANTWORT_FRAGE';'ANZ_KEINE_ANTWORT_FRAGE';'ANZ_FREITEXT_ANTWORT';'BEANTWORTET';'KEINE_ANTWORT';'EINS';'ZWEI';'DREI';'VIER';'FUENF';'SECHS';'SIEBEN';'ACHT';'NEUN';'ZEHN';'ELF';'ZWOELF';'ANTWORT';'FREITEXT';'ANTWORT_FREITEXT';'FEEDBACK_GEWERTET';'FEEDBACK_VEROEFFENTLICHEN';'FEEDBACK_SICHTBAR';'NOTE_IN_PROZENT';'NOTE'
+
+Filename: FB Freitextantworten.csv
+'RLVKEY';'SEMESTER';'TYP';'STUNDEN';'CREDITS';'LV_STATUS_NR';'LV_STATUS';'KOMPONENTEN_TYP';'FRAGE_TYP';'FRAGETEXT';'OPTIONEN';'ANTWORT';'OPTIONNR';'FREITEXT'
+
+Filename: Alle Fragebögen.csv
+'SEM';'RLVKEY';'SEMESTER';'TYP';'STUNDEN';'CREDITS';'LV_STATUS_NR';'LV_STATUS';'FRAGEBOGEN_ID';'BEZEICHNUNG';'BEGINN_BEFRAGUNG';'ENDE_BEFRAGUNG';'ENDE_STELLUNGNAHME';'BEGINN_VEROEFFENTLICHUNG';'HAT_STELLUNGNAHME';'DATUM_STELLUNGNAHME';'STELLUNGNAHME';'GESAMTFRAGE';'FRAGE_KEY';'IST_GESAMTFRAGE';'FRAGETEXT';'FRAGE_TYP';'FRAGETYP_BEZEICHNUNG';'KOMPONENTEN_TYP';'KOMPONENTE_NUMMERIERUNG';'FRAGE_NUMMERIERUNG';'KEINE_ANTWORT_MOEGLICH';'FREITEXT_MOEGLICH';'SINGLE_MULTIPLE';'AUSWERTUNG';'OPTIONEN_GRUPPE_BEZ';'OPTIONEN';'ANZ_OPTIONEN';'VEROEFFENTLICHEN';'RLV_KOMPONENTEN_GESAMT';'RLV_KOMPONENTEN_UNI';'RLV_KOMPONENTEN_LEHRER';'ANZ_RUECKLAUF';'ANZ_FEEDBACK';'ANZ_ABGELEHNT';'ANZ_ABGELEHNT_ANMERKUNG';'ANZ_ANTWORT_FRAGE_GESAMT';'ANZ_ANTWORT_FRAGE';'ANZ_KEINE_ANTWORT_FRAGE';'ANZ_FREITEXT_ANTWORT';'BEANTWORTET';'KEINE_ANTWORT';'EINS';'ZWEI';'DREI';'VIER';'FUENF';'SECHS';'SIEBEN';'ACHT';'NEUN';'ZEHN';'ELF';'ZWOELF';'ANTWORT';'FREITEXT';'ANTWORT_FREITEXT';'FEEDBACK_GEWERTET';'FEEDBACK_VEROEFFENTLICHEN';'FEEDBACK_SICHTBAR';'NOTE_IN_PROZENT';'NOTE'
+
+
+## Achte darauf, dass die Ordnerauswahl auch die csv files findet

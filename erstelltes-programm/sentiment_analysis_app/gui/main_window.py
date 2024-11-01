@@ -13,7 +13,7 @@ class MainWindow:
     Diese Klasse erstellt und verwaltet das Hauptfenster der Anwendung,
     einschließlich der GUI-Elemente und Funktionen für die Benutzerinteraktion.
     """
-
+    
     def __init__(self, root):
         """
         Initialisiert das Hauptfenster der Anwendung.
@@ -30,7 +30,7 @@ class MainWindow:
         self.root.configure(bg="#E8EAF6")
         self.selected_directories = []  # Liste der vom Benutzer ausgewählten Verzeichnisse
         self.setup_gui()
-
+        
     def setup_gui(self):
         """
         Erstellt die grafische Benutzeroberfläche für die Anwendung.
