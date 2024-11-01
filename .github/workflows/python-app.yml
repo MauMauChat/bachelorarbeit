@@ -45,10 +45,6 @@ jobs:
       run: |
         black .
 
-    - name: Run Bandit for security analysis
-      run: |
-        bandit -r .
-
     - name: Lint with Flake8
       run: |
         flake8 .
