@@ -2,7 +2,7 @@ import os
 import csv
 import pytest
 from tempfile import TemporaryDirectory
-from script import process_fb_freitextantworten
+from freitextantworten import process_fb_freitextantworten
 
 def test_process_fb_freitextantworten(tmp_path):
     """
