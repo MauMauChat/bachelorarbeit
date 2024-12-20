@@ -1,6 +1,6 @@
 # Bachelorarbeit
 
-Dies ist deine Bachelorarbeit.
+Dies ist deine Bachelorarbeit!
 
 ## Projektstruktur
 
