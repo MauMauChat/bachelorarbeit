@@ -16,9 +16,9 @@ def run_r_script(directory, log_output):
         directory (str): Das Basisverzeichnis, in dem das R-Skript die Resultate sammelt.
         log_output (callable): Funktion, um Log-Ausgaben zu erzeugen.
     """
-    # Inline comments zur Erklärung:
     # Pfad zum R-Skript annehmen: Liegt im aktuellen Arbeitsverzeichnis
-    r_script_path = os.path.join(os.getcwd(), "report_generator.R")
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    r_script_path = os.path.join(script_dir, "report_generator.R")
     if not os.path.exists(r_script_path):
         log_output("R-Skript 'report_generator.R' nicht gefunden.")
         return
