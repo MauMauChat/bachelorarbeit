@@ -1,0 +1,6 @@
+Fragetext,Antwort,Sprache,Sentiment,Zahlenwert
+Wie zufrieden sind Sie mit unserem Service?,Ich bin sehr unzufrieden mit dem Service. Alles läuft reibungslos.,de,negative,-0.9863166124559939
+Wie bewerten Sie die Benutzerfreundlichkeit unserer Anwendung?,The app is bad and i hate ituser-friendly and easy to navigate.,en,negative,-0.9993226677179337
+Was könnten wir verbessern?,"Vielleicht eine schnellere Ladezeit wäre wünschenswert, sehr schlehct.",de,positive,0.7849292382597923
+"Wie wahrscheinlich ist es, dass Sie unser Produkt weiterempfehlen?","Es ist wahrscheinlich, dass ich es nicht, weil es schlecht ist weiterempfehlen werde.",de,negative,-0.9813894107937813
+Was hat Ihnen am besten gefallen?,Das Design ist ansprechend und modern.,de,positive,0.9924732919316739
