@@ -26,7 +26,7 @@ class FileSelector:
         while True:
             # Öffnet einen Dialog zur Auswahl eines Ordners
             directory = filedialog.askdirectory(
-                initialdir=os.path.expanduser('~/Documents/bachelorarbeit'),
+                initialdir=os.path.expanduser('~/Documents/bachelorarbeit/src/App/test_data'),
                 title="Ordner auswählen"
             )
             # Wenn ein Verzeichnis ausgewählt wurde, hänge es an die Liste an

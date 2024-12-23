@@ -9,10 +9,10 @@ import os  # noqa: E402  # für Pfad-Operationen
 import threading  # noqa: E402  # für parallele Ausführung der Analyse
 import tkinter as tk  # noqa: E402  # GUI-Bibliothek
 from tkinter import ttk, messagebox  # noqa: E402
-from gui.file_selector import FileSelector  # noqa: E402  # Import der Dateiauswahl-Klasse
-from analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Analyseklasse
-from analysis.report_generator import run_r_script  # noqa: E402  # Import der Funktion zum R-Skript-Run
-from analysis.comparison import ComparisonManager  # noqa: E402  # Import der Vergleichsmanager-Klasse
+from App.gui.file_selector import FileSelector  # noqa: E402  # Import der Dateiauswahl-Klasse
+from App.analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Analyseklasse
+from App.analysis.report_generator import run_r_script  # noqa: E402  # Import der Funktion zum R-Skript-Run
+from App.analysis.comparison import ComparisonManager  # noqa: E402  # Import der Vergleichsmanager-Klasse
 
 class MainWindow:
     """
@@ -77,6 +77,11 @@ class MainWindow:
         compare_button = ttk.Button(frame, text="Vergleich starten", command=self.start_comparison)
         compare_button.pack(pady=10)
 
+        # **Neuer Button für den Entwicklungsmodus**
+        dev_mode_button = ttk.Button(frame, text="Entwicklungsmodus: Testdaten verwenden", command=self.run_dev_mode)
+        dev_mode_button.pack(pady=10)
+        # **Ende des neuen Buttons**
+
         # Fortschrittsbalken
         self.progress_bar = ttk.Progressbar(frame, orient='horizontal', mode='determinate')
         self.progress_bar.pack(pady=20, fill=tk.X)
@@ -114,6 +119,24 @@ class MainWindow:
 
         # Starte die Analyse in einem separaten Thread, um GUI nicht zu blockieren
         threading.Thread(target=self.run_analysis).start()
+
+    def run_dev_mode(self):
+        """
+        Führt die Analyse automatisch mit vordefinierten Testdaten aus.
+        Dieser Button ist nur für die Entwicklungsumgebung gedacht.
+        """
+        # **Neuer Code für den Entwicklungsmodus**
+        test_directories = [
+            "/home/lucy/Documents/bachelorarbeit/src/App/test_data/Jahr_4",
+            "/home/lucy/Documents/bachelorarbeit/src/App/test_data/Jahr_5"
+        ]
+        self.selected_directories = test_directories
+        self.log_output("Entwicklungsmodus aktiviert. Verwende Testdaten aus Jahr_4 und Jahr_5.")
+        # Starte die Analyse in einem separaten Thread
+        threading.Thread(target=self.run_analysis).start()
+        ## **Ende des neuen Codes**
+
+
 
     def run_analysis(self):
         """
@@ -165,7 +188,7 @@ class MainWindow:
             # Erzeuge ein ComparisonManager-Objekt mit der Logging-Funktion
             comparator = ComparisonManager(self.log_output)
             # Öffne den Dialog zur Auswahl der Ergebnis-Ordner
-            selected_folders = comparator.select_result_folders()
+            selected_folders = FileSelector().select_directories()
             if selected_folders:
                 # Starte den Vergleich in einem separaten Thread, um GUI nicht zu blockieren
                 threading.Thread(target=comparator.compare_results, args=(selected_folders,)).start()

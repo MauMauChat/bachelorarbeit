@@ -36,5 +36,4 @@ if __name__ == '__main__':
     except Exception as e:
         # Fehlerbehandlung
         print(f"Ein unerwarteter Fehler ist aufgetreten: {e}")
-        print("Das ist alles gut")
         sys.exit(1)

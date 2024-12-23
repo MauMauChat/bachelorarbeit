@@ -31,6 +31,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/App/test_data/Jahr_4/FB Freitextantworten.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/App/test_data/Jahr_4/Freitextantworten_Analyse.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/App/test_data/Jahr_5/FB Freitextantworten.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/App/test_data/Jahr_5/Freitextantworten_Analyse.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

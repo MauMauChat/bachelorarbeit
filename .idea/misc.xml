@@ -4,4 +4,17 @@
     <option name="sdkName" value="Python 3.12 (bachelorarbeit)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (bachelorarbeit)" project-jdk-type="Python SDK" />
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/App/test_data/Resultate_der_Analyse/Studentenfeedback_Bericht.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/App/test_data/Resultate_der_Analyse" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
