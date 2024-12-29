@@ -9,10 +9,11 @@ import sys  # noqa: E402  # import systemmodule um sys.exit() zu verwenden
 import os   # noqa: E402  # import os für Pfad- und OS-Operationen
 import tkinter as tk  # noqa: E402  # import tkinter für GUI
 from tkinter import messagebox  # noqa: E402  # zusätzliche GUI-Komponente
-from gui.main_window import MainWindow  # noqa: E402  # import der Hauptfenster-Klasse
+from src.App.gui.main_window import MainWindow  # noqa: E402  # import der Hauptfenster-Klasse
 # Keine direkte Nutzung von file_selector hier, da main_window sie intern lädt
-from analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Sentimentanalyse-Klasse
-from analysis.report_generator import run_r_script  # noqa: E402  # Import der R-Skript-Funktion
+
+#from analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Sentimentanalyse-Klasse
+#from analysis.report_generator import run_r_script  # noqa: E402  # Import der R-Skript-Funktion
 
 def main():
     """

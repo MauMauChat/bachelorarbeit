@@ -9,10 +9,10 @@ import os  # noqa: E402  # für Pfad-Operationen
 import threading  # noqa: E402  # für parallele Ausführung der Analyse
 import tkinter as tk  # noqa: E402  # GUI-Bibliothek
 from tkinter import ttk, messagebox  # noqa: E402
-from App.gui.file_selector import FileSelector  # noqa: E402  # Import der Dateiauswahl-Klasse
-from App.analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Analyseklasse
-from App.analysis.report_generator import run_r_script  # noqa: E402  # Import der Funktion zum R-Skript-Run
-from App.analysis.comparison import ComparisonManager  # noqa: E402  # Import der Vergleichsmanager-Klasse
+from src.App.gui.file_selector import FileSelector  # noqa: E402  # Import der Dateiauswahl-Klasse
+from src.App.analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Analyseklasse
+from src.App.analysis.report_generator import run_r_script  # noqa: E402  # Import der Funktion zum R-Skript-Run
+from src.App.analysis.comparison import ComparisonManager  # noqa: E402  # Import der Vergleichsmanager-Klasse
 
 class MainWindow:
     """
