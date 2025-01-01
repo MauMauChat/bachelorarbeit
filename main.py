@@ -9,6 +9,14 @@ import sys  # noqa: E402  # import systemmodule um sys.exit() zu verwenden
 import os   # noqa: E402  # import os für Pfad- und OS-Operationen
 import tkinter as tk  # noqa: E402  # import tkinter für GUI
 from tkinter import messagebox  # noqa: E402  # zusätzliche GUI-Komponente
+from pathlib import Path
+
+# Bestimme das Basisverzeichnis dynamisch
+BASE_DIR = Path(__file__).resolve().parent
+SRC_DIR = BASE_DIR / "src"
+
+# Füge src dem Python-Pfad hinzu
+sys.path.append(str(SRC_DIR))
 from src.App.gui.main_window import MainWindow  # noqa: E402  # import der Hauptfenster-Klasse
 # Keine direkte Nutzung von file_selector hier, da main_window sie intern lädt
 

@@ -1,8 +1,4 @@
-Ja, das ist möglich! Du kannst den absoluten Pfad zu deinem Projekt dynamisch mit `pwd` in **Linux/macOS** und mit `(Get-Location).Path` in **Windows PowerShell** einfügen. Dadurch müssen Nutzer den Pfad nicht manuell eingeben. Das macht die Einrichtung noch einfacher.
 
-Hier ist eine überarbeitete Version der **README.md**, die `pwd` und `(Get-Location).Path` verwendet.
-
----
 
 ## README.md
 

@@ -6,9 +6,17 @@ Es bindet den FileSelector, startet die Analyse und steuert die GUI-Elemente.
 """
 
 import os  # noqa: E402  # für Pfad-Operationen
+import sys
+from pathlib import Path
 import threading  # noqa: E402  # für parallele Ausführung der Analyse
 import tkinter as tk  # noqa: E402  # GUI-Bibliothek
 from tkinter import ttk, messagebox  # noqa: E402
+# Bestimme das Basisverzeichnis dynamisch
+BASE_DIR = Path(__file__).resolve().parent
+SRC_DIR = BASE_DIR / "src"
+
+# Füge src dem Python-Pfad hinzu
+sys.path.append(str(SRC_DIR))
 from src.App.gui.file_selector import FileSelector  # noqa: E402  # Import der Dateiauswahl-Klasse
 from src.App.analysis.sentiment_analyzer import SentimentAnalyzer  # noqa: E402  # Import der Analyseklasse
 from src.App.analysis.report_generator import run_r_script  # noqa: E402  # Import der Funktion zum R-Skript-Run
