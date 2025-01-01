@@ -82,7 +82,7 @@ class MainWindow:
         dev_mode_button.pack(pady=10)
         # **Ende des neuen Buttons**
 
-        # Fortschrittsbalken
+        # Fortschrittsbalke iener freund in auf winfow gjet firse klasse niht weikes ptbleme mit dem dateooafbbsadfsdasdn
         self.progress_bar = ttk.Progressbar(frame, orient='horizontal', mode='determinate')
         self.progress_bar.pack(pady=20, fill=tk.X)
 
