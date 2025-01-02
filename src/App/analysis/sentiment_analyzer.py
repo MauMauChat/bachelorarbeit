@@ -5,8 +5,8 @@ Dieses Modul enthält die Klasse SentimentAnalyzer,
 welche für die Sentimentanalyse der gefundenen CSV-Dateien verantwortlich ist.
 """
 
-import os   # noqa: E402  # für Pfad- und OS-Operationen
-import csv  # noqa: E402  # zum Lesen und Schreiben von CSV-Dateien
+import os   # noqa: E402 # für Pfad- und OS-Operationen
+import csv  # noqa: E402 # zum Lesen und Schreiben von CSV-Dateien
 from langdetect import detect  # noqa: E402  # Spracherkennung
 from transformers import pipeline  # noqa: E402  # für die Sentimentanalyse-Modelle
 
