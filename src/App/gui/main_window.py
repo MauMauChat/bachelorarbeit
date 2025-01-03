@@ -6,11 +6,13 @@ Es bindet den FileSelector, startet die Analyse und steuert die GUI-Elemente.
 """
 
 import os  # noqa: E402  # für Pfad-Operationen
+import subprocess
 import sys
-from pathlib import Path
 import threading  # noqa: E402  # für parallele Ausführung der Analyse
 import tkinter as tk  # noqa: E402  # GUI-Bibliothek
+from pathlib import Path
 from tkinter import ttk, messagebox  # noqa: E402
+
 # Bestimme das Basisverzeichnis dynamisch
 BASE_DIR = Path(__file__).resolve().parent
 SRC_DIR = BASE_DIR / "src"
@@ -84,6 +86,10 @@ class MainWindow:
         # Neuer Button zum Vergleich starten
         compare_button = ttk.Button(frame, text="Vergleich starten", command=self.start_comparison)
         compare_button.pack(pady=10)
+
+        # Button für Diagrammerstellung
+        diagram_button = ttk.Button(frame, text="Diagramme erstellen", command=self.run_diagram_generation_button)
+        diagram_button.pack(pady=10)
 
         # **Neuer Button für den Entwicklungsmodus**
         dev_mode_button = ttk.Button(frame, text="Entwicklungsmodus: Testdaten verwenden", command=self.run_dev_mode)
@@ -181,11 +187,15 @@ class MainWindow:
             run_r_script(root_directory, self.log_output)
             self.log_output("Bericht wurde erstellt und in 'Resultate_der_Analyse' gespeichert.")
 
+            self.log_output("Erstelle Diagramme aus den Analyse-Ergebnissen...")
+            self.run_diagram_generation(root_directory)
+
             self.log_output("Alle Dateien wurden verarbeitet.")
             messagebox.showinfo("Analyse abgeschlossen", "Die Sentimentanalyse wurde erfolgreich abgeschlossen.")
         except Exception as e:
             self.log_output(f"Fehler: {e}")
             messagebox.showerror("Fehler", f"Es ist ein Fehler aufgetreten: {e}")
+
 
     def start_comparison(self):
         """
@@ -237,3 +247,50 @@ class MainWindow:
         """
         # Inline comments zur Erklärung:
         self.progress_bar['value'] += increment
+
+    def run_diagram_generation(self, base_dir):
+        """
+        Führt das R-Skript zur Diagrammerstellung aus.
+
+        Args:
+            base_dir (str): Das Basisverzeichnis, in dem die CSV-Dateien liegen.
+        """
+        try:
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            r_script_path = os.path.join(script_dir, "generating_diagrams_from_CSV_files.R")
+            if not os.path.exists(r_script_path):
+                self.log_output("R-Skript 'generating_diagrams_from_CSV_files.R' nicht gefunden.")
+                return
+
+            output_dir = os.path.join(base_dir, "Diagramme")
+            if not os.path.exists(output_dir):
+                os.makedirs(output_dir)
+
+            csv_file_path = os.path.join(base_dir, "Resultate_der_Analyse", "Freitextantworten_Analyse.csv")
+            if not os.path.exists(csv_file_path):
+                self.log_output("Analyse-Ergebnisse nicht gefunden. Bitte führen Sie die Analyse zuerst aus.")
+                return
+
+            subprocess.run(
+                ["Rscript", r_script_path, csv_file_path, output_dir],
+                check=True
+            )
+            self.log_output(f"Diagramme wurden erfolgreich erstellt und in {output_dir} gespeichert.")
+        except subprocess.CalledProcessError as e:
+            self.log_output(f"Fehler beim Ausführen des R-Skripts: {e}")
+        except Exception as e:
+            self.log_output(f"Unerwarteter Fehler: {e}")
+
+    def run_diagram_generation_button(self):
+        """
+        Führt die Diagrammerstellung aus, wenn der Button geklickt wird.
+        """
+        try:
+            if hasattr(self, "root_directory") and self.root_directory:
+                self.run_diagram_generation(self.root_directory)
+            else:
+                messagebox.showwarning("Fehler",
+                                       "Kein Basisverzeichnis gefunden. Bitte führen Sie zuerst die Analyse aus.")
+        except Exception as e:
+            self.log_output(f"Fehler: {e}")
+            messagebox.showerror("Fehler", f"Es ist ein Fehler aufgetreten: {e}")
