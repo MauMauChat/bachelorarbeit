@@ -187,8 +187,9 @@ class MainWindow:
             run_r_script(root_directory, self.log_output)
             self.log_output("Bericht wurde erstellt und in 'Resultate_der_Analyse' gespeichert.")
 
-            self.log_output("Erstelle Diagramme aus den Analyse-Ergebnissen...")
-            self.run_diagram_generation(root_directory)
+            # Diagram erstellen
+            #self.log_output("Erstelle Diagramme aus den Analyse-Ergebnissen...")
+            #self.run_diagram_generation(root_directory)
 
             self.log_output("Alle Dateien wurden verarbeitet.")
             messagebox.showinfo("Analyse abgeschlossen", "Die Sentimentanalyse wurde erfolgreich abgeschlossen.")
