@@ -10,7 +10,18 @@ def preprocess_csv_content(file_path):
             content = file.read()
 
         # Ersetze Zeilenumbrüche durch Leerzeichen, außer wenn sie nach ';' oder neben '\'' stehen
-        processed_content = re.sub(r"(?<!;)(?<!')\n(?!')", " ", content)
+        pattern = re.compile(
+            r"(?<!;[A-Za-z0-9\s\(\)\[\]\{\}])(?<!')\n(?!')"  # dein existierendes Muster
+            r"|"
+            r"((\.)\s*\n\s*)"
+            r"|"
+            r"(?<=')\s*\n\s*(?=[A-Za-z])"
+            r"|"
+            r"(?<=[A-Za-z\(\)])\s*\n\s*(?=')"
+            r"|"
+            r"((?<=[A-Za-z])\s*\n\s*)"
+        )
+        processed_content = pattern.sub(" ", content)
 
         # Schreibe den angepassten Inhalt zurück
         temp_file_path = file_path + '_processed.csv'
